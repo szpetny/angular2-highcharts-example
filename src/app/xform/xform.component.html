@@ -1,0 +1,5 @@
+<form [formGroup]="serverSettingsForm" (ngSubmit)="updateSettings($event)">
+    <input formControlName="serverport" type="text" placeholder="server:port">
+    <input formControlName="filename" type="text" placeholder="filename">
+  <button type="submit">Update</button>
+</form>
