@@ -9,6 +9,9 @@ import { Observable } from 'rxjs/Rx';
 
 describe('Service: Data', () => {
   const mockResponse = TestData.xchartData();
+  
+  let serverport = 'server:port',
+      filename = 'filename';
 
   beforeEach(() => {
     TestBed.configureTestingModule({
@@ -29,7 +32,7 @@ describe('Service: Data', () => {
           body: JSON.stringify(mockResponse)
         })));
       });
-      service.getXchartData().subscribe((data) => {
+      service.getXchartData(serverport, filename).subscribe((data) => {
         expect(data.length).toEqual(2);
         expect(data[0]).toBeDefined();
         expect(data[1]).toBeDefined();
@@ -50,7 +53,7 @@ describe('Service: Data', () => {
           body: JSON.stringify(mockResponse)
         })));
       });
-      service.getXchartData(min, max).subscribe((data) => {
+      service.getXchartData(serverport, filename, min, max).subscribe((data) => {
         expect(data.length).toEqual(2);
         expect(data[0]).toBeDefined();
         expect(data[1]).toBeDefined();
@@ -74,7 +77,7 @@ describe('Service: Data', () => {
         })));
       });
       spyOn(Observable, 'throw');
-      service.getXchartData(min, max).subscribe((err) => {
+      service.getXchartData(serverport, filename, min, max).subscribe((err) => {
         expect(Observable.throw).toHaveBeenCalledWith('Unexpected token e in JSON at position 1');
       });
     })
@@ -95,7 +98,7 @@ describe('Service: Data', () => {
         connection.mockError(errorResponse);
       });
       spyOn(Observable, 'throw');
-      service.getXchartData(min, max).subscribe((err) => {
+      service.getXchartData(serverport, filename, min, max).subscribe((err) => {
         expect(Observable.throw).toHaveBeenCalledWith(errorResponse);
       });
     })

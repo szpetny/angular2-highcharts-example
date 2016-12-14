@@ -2,13 +2,13 @@
 
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
-import { RouterLinkStubDirective, RouterOutletStubComponent } from './testing/router-stubs';
+import { RouterOutletStubComponent } from './testing/router-stubs';
 
 describe('App: Angczart', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [
-        AppComponent, RouterLinkStubDirective, RouterOutletStubComponent
+        AppComponent, RouterOutletStubComponent
       ],
     });
   }));

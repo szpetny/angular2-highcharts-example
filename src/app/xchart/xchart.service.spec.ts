@@ -31,7 +31,7 @@ describe('Service: Xchart', () => {
     service.updateDetailChartAndAddMasterPlotBand(serverport, filename,
       detailChartMock, masterChartXAxisMock, min, max);
     
-    expect(dataServiceStub.getXchartData).toHaveBeenCalledWith(min, max);
+    expect(dataServiceStub.getXchartData).toHaveBeenCalledWith(serverport, filename, min, max);
     expect(masterChartXAxisMock.removePlotBand).toHaveBeenCalledWith('mask-before');
     expect(masterChartXAxisMock.addPlotBand).toHaveBeenCalledWith({id: 'mask-before', from: 5505.10595703125, 
       to: min, color: 'rgba(0, 0, 0, 0.2)'});

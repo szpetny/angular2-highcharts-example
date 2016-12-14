@@ -6,11 +6,11 @@ import { XchartComponent } from './xchart.component';
 @NgModule({
   imports: [
     RouterModule.forChild([
-     { path: 'xchart/:serverport/:filename',  component: XchartComponent }
-   ])
+      { path: 'xchart/:serverport/:filename', component: XchartComponent }
+    ])
   ],
   exports: [
-   RouterModule
- ]
+    RouterModule
+  ]
 })
 export class XchartRoutingModule { }

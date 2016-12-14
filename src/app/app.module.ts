@@ -5,8 +5,7 @@ import { HttpModule } from '@angular/http';
 import { AppRoutingModule } from './app.routing.module';
 import { AppComponent } from './app.component';
 
-import { XchartModule } from './xchart/xchart.module';
-import { XformModule } from './xform/xform.module';
+import { XuniverseModule } from './xuniverse/xuniverse.module';
 
 @NgModule({
   declarations: [
@@ -16,8 +15,7 @@ import { XformModule } from './xform/xform.module';
     BrowserModule,
     HttpModule,
     AppRoutingModule,
-    XchartModule,
-    XformModule
+    XuniverseModule
   ],
   providers: [],
   bootstrap: [AppComponent]

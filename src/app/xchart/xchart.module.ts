@@ -1,5 +1,4 @@
-import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { NgModule } from '@angular/core';
 import { ChartModule } from 'angular2-highcharts';
 import { HttpModule } from '@angular/http';
 
@@ -10,13 +9,12 @@ import { DataService } from '../shared/data.service';
 
 @NgModule({
   imports: [
-    CommonModule,
     ChartModule,
     XchartRoutingModule,
     HttpModule
   ],
-  schemas: [CUSTOM_ELEMENTS_SCHEMA],
   declarations: [XchartComponent],
-  providers: [DataService, XchartService]
+  providers: [DataService, XchartService],
+  exports: [XchartComponent]
 })
 export class XchartModule { }

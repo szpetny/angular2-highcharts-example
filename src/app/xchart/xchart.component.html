@@ -1,12 +1,11 @@
-<div id="xform-container">
-	<x-form></x-form>
-</div>
 <div id="xchart-container">
 	<div id="detail-container">
-		<chart #detailChart [options]="detailOptions" (selection)="onDetailChartSelection($event)" class="detail-chart"></chart>
+		<chart #detailChart [options]="detailOptions" 
+			(selection)="onDetailChartSelection($event)" class="detail-chart"></chart>
 	</div>
 	<div id="master-container">
-		<chart #masterChart [options]="masterOptions" (selection)="onMasterChartSelection($event)" class="master-chart"></chart>
+		<chart #masterChart [options]="masterOptions" 
+			(selection)="onMasterChartSelection($event)" class="master-chart"></chart>
 	</div>
 </div>
 

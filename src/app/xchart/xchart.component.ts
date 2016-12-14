@@ -1,12 +1,12 @@
-import { Component, ViewChild, OnInit } from '@angular/core';
+import { Component, ViewChild, OnInit, Input } from '@angular/core';
+import { Observable } from 'rxjs/Rx';
+import { ActivatedRoute, Params } from '@angular/router';
+import 'rxjs/add/operator/switchMap';
+
 import { DataService } from '../shared/data.service';
 import { XchartService } from './xchart.service';
 import { MasterChart } from './master-chart';
 import { DetailChart } from './detail-chart';
-import { Observable } from 'rxjs/Rx';
-import { Router, ActivatedRoute, Params } from '@angular/router';
-import 'rxjs/add/operator/switchMap';
-import { XformComponent } from '../xform/xform.component';
 
 declare var require: any;
 let Highcharts = require('highcharts/highcharts');
@@ -21,7 +21,6 @@ HighchartsMore(Highcharts);
 export class XchartComponent implements OnInit {
   @ViewChild('masterChart') mczartDiv: any;
   @ViewChild('detailChart') dczartDiv: any;
-  @ViewChild('settingsForm') settingsDiv: any;
 
   masterChart: any;
   detailChart: any;
@@ -32,8 +31,7 @@ export class XchartComponent implements OnInit {
 
   constructor(private dataService: DataService,
     private xchartService: XchartService,
-    private route: ActivatedRoute,
-    private router: Router) { }
+    private route: ActivatedRoute) { }
 
   ngOnInit() {
     this.route.params

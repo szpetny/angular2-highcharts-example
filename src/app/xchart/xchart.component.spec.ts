@@ -13,6 +13,8 @@ import { XchartServiceStub } from '../testing/service-stubs';
 import { TestData, MockChartEvent } from '../testing/test-data';
 import { ChartModule } from 'angular2-highcharts';
 import { Observable } from 'rxjs/Rx';
+import { ActivatedRoute, Params } from '@angular/router';
+import { ActivatedRouteStub } from '../testing/router-stubs';
 
 declare var require: any;
 let Highcharts = require('highcharts/highcharts');
@@ -24,6 +26,8 @@ describe('Component: Xchart', () => {
   let dataService, xchartService;
   let compDataService, compXchartService;
 
+  let route;
+  
   let comp: XchartComponent;
   let fixture: ComponentFixture<XchartComponent>;
   let de: DebugElement;
@@ -32,12 +36,14 @@ describe('Component: Xchart', () => {
   beforeEach(async(() => {
     dataServiceStub = new DataServiceStub();
     xchartServiceStub = new XchartServiceStub();
+    route = new ActivatedRouteStub();
 
     TestBed.configureTestingModule({
       imports: [ChartModule],
       declarations: [XchartComponent],
       providers: [{ provide: DataService, useValue: dataServiceStub },
-      { provide: XchartService, useValue: xchartServiceStub }]
+      { provide: XchartService, useValue: xchartServiceStub },
+      { provide: ActivatedRoute, useValue: ActivatedRouteStub }]
     });
 
     fixture = TestBed.createComponent(XchartComponent);
