@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { FormBuilder, Validators } from '@angular/forms';
+import { FormControl, FormGroup, Validators } from '@angular/forms';
 import { ActivatedRoute } from '@angular/router';
 
 @Component({
@@ -12,13 +12,12 @@ export class XformComponent implements OnInit {
   
   @Input() doAction: Function;
   
-  constructor(private route: ActivatedRoute,
-    private fb: FormBuilder) { }
+  constructor(private route: ActivatedRoute) { }
 
   ngOnInit() {
-    this.serverSettingsForm = this.fb.group({
-      serverport: ['', Validators.required],
-      filename: ['', Validators.required]
+    this.serverSettingsForm = new FormGroup({
+      serverport: new FormControl('', Validators.required),
+      filename: new FormControl('', Validators.required)
     });
   }
 
