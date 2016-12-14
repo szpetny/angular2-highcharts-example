@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { FormControl, FormGroup, Validators } from '@angular/forms';
+import { FormBuilder, Validators } from '@angular/forms';
 import { ActivatedRoute } from '@angular/router';
 
 @Component({
@@ -8,21 +8,22 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./xform.component.css']
 })
 export class XformComponent implements OnInit {
-  serverSettingsForm: any;
+  serverSettings: any;
   
   @Input() doAction: Function;
   
-  constructor(private route: ActivatedRoute) { }
+  constructor(private route: ActivatedRoute,
+    private fb: FormBuilder) { }
 
   ngOnInit() {
-    this.serverSettingsForm = new FormGroup({
-      serverport: new FormControl('', Validators.required),
-      filename: new FormControl('', Validators.required)
+    this.serverSettings = this.fb.group({
+      serverport: ['', Validators.required],
+      filename: ['', Validators.required]
     });
   }
 
   submitForm(): void {
-     let formData = this.serverSettingsForm.value;
+     let formData = this.serverSettings.value;
      this.doAction(formData);
    }
 }

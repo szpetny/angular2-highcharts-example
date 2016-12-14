@@ -1,5 +1,5 @@
-<form [formGroup]="serverSettingsForm">
+<form [formGroup]="serverSettings" (ngSubmit)="submitForm()">
     <input formControlName="serverport" type="text" placeholder="server:port">
     <input formControlName="filename" type="text" placeholder="filename">
-  <button (click)="submitForm()">Update</button>
+  <button type="submit" [disabled]="serverSettings.invalid">Update</button>
 </form>
