@@ -4,7 +4,7 @@ import { RouterModule } from '@angular/router';
 @NgModule({
   imports: [
     RouterModule.forRoot([
-        { path: '', redirectTo: '/xuniverse', pathMatch: 'full' },
+        { path: '', redirectTo: '/xtable', pathMatch: 'full' },
     ])
   ],
   exports: [

@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app.routing.module';
 import { AppComponent } from './app.component';
 
 import { XuniverseModule } from './xuniverse/xuniverse.module';
+import { XtableModule } from './xtable/xtable.module';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { XuniverseModule } from './xuniverse/xuniverse.module';
     BrowserModule,
     HttpModule,
     AppRoutingModule,
-    XuniverseModule
+    XuniverseModule,
+    XtableModule
   ],
   providers: [],
   bootstrap: [AppComponent]

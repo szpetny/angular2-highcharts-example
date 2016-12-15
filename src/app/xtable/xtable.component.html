@@ -1,0 +1,30 @@
+<table class="ui compact celled single line table">
+	<thead>
+		<tr>
+			<th *ngFor="let th of tableHeader" id="{{th.props.ID}}">
+				<a href="{{th.props.A_HREF}}">
+					<abbr title="{{th.props.ABBR_TITLE}}">
+						{{th.props.TEXT}}
+					</abbr>
+				</a>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr *ngFor="let row of tableData; let rowIndex = index" id="{{rowIndex + 1}}">
+			<td *ngFor="let cell of row.cells; let cellIndex = index">
+				<div *ngIf="cellIndex == 0" class="{{cell.props.RESTRICTED == 'true' ? 'error' : ''}}">
+					<input name="{{cell.props.INPUT_NAME}}" class="ui checkbox"
+						type="{{cell.props.INPUT_TYPE}}" value="{{cell.props.INPUT_VAL}}">
+				</div>
+				<a *ngIf="cellIndex == 1" href="{{cell.props.A_HREF}}">
+					<i class="zoom icon"></i>
+				</a>
+				<a *ngIf="cellIndex > 1 && cell.props.A_HREF" href="{{cell.props.A_HREF}}">
+					{{cell.props.TEXT}}
+				</a>
+				<p *ngIf="cellIndex > 1 && !cell.props.A_HREF">{{cell.props.TEXT}}</p>
+			</td>
+		</tr>
+	</tbody>
+</table>

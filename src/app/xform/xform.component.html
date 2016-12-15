@@ -1,5 +1,13 @@
-<form [formGroup]="serverSettings" (ngSubmit)="submitForm()">
-    <input formControlName="serverport" type="text" placeholder="server:port">
-    <input formControlName="filename" type="text" placeholder="filename">
-  <button type="submit" [disabled]="serverSettings.invalid">Update</button>
+<form [formGroup]="serverSettings" (ngSubmit)="submitForm()"
+	class="ui form">
+	<div class="field">
+		<label>Server & port</label> <input formControlName="serverport"
+			type="text" placeholder="server:port">
+	</div>
+	<div class="field">
+		<label>Filename</label> <input formControlName="filename" type="text"
+			placeholder="filename">
+	</div>
+	<button class="ui button" type="submit"
+		[disabled]="serverSettings.invalid">Update</button>
 </form>

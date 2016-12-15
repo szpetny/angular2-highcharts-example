@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@CHARSET "UTF-8";
+
+@import url("assets/semantic-ui/semantic.css");
+
+body { margin: .5em; overflow-x: scroll; }
+
+.ui.table { font-size: .7em; }
+.ui.compact.table td { padding: .2em; }
