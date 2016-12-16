@@ -27,6 +27,15 @@ export class DataService {
         return [];
       });
   }
+  
+  getAladinDataFromJson(): Observable<any[]> {
+    return this.http.get('../../assets/json/moc-data.json')
+      .map((r: Response) => r.json().moc)
+      .catch((error: any) => {
+        this.handleError(error);
+        return [];
+      });
+  }
 
   getXchartData(serverport: string, filename: string,
     min?: number, max?: number): Observable<number[][][]> {

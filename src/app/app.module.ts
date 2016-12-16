@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { MainMenuModule } from './main-menu/main-menu.module';
 import { XuniverseModule } from './xuniverse/xuniverse.module';
 import { XtableModule } from './xtable/xtable.module';
+import { XaladinModule } from './xaladin/xaladin.module';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { XtableModule } from './xtable/xtable.module';
     AppRoutingModule,
     MainMenuModule,
     XuniverseModule,
-    XtableModule
+    XtableModule,
+    XaladinModule
   ],
   providers: [],
   bootstrap: [AppComponent]

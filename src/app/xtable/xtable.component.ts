@@ -22,11 +22,11 @@ export class XtableComponent implements OnInit {
         data.splice(0, 1); 
         this.tableData = data;
         
-        this.doDirtyHack();
+        this.doDirtyHackForCheckbox();
       });
   }
   
-  private doDirtyHack() {
+  private doDirtyHackForCheckbox() {
     $(document).ready(function() {
       $('.ui.checkbox').checkbox();
     });

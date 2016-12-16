@@ -2,6 +2,7 @@
 @CHARSET "UTF-8";
 
 @import url("assets/semantic-ui/semantic.css");
+@import url("assets/aladin-lite/aladin.min.css");
 
 body { margin: .5em; overflow-x: scroll; }
 
