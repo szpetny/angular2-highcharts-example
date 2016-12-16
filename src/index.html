@@ -1,43 +1,42 @@
 <!doctype html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>Angczart</title>
-  <base href="/">
+<meta charset="utf-8">
+<title>Angczart</title>
+<base href="/">
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
-  <app-root>Loading...</app-root>
-  <script src="assets/jquery/jquery.min.js"></script>
-  <script src="assets/semantic-ui/semantic.min.js"></script>
-   <script>
-  $(document)
-    .ready(function() {
-
-      // fix main menu to page on passing
-      $('.main.menu').visibility({
-        type: 'fixed'
-      });
-      $('.overlay').visibility({
-        type: 'fixed',
-        offset: 80
-      });
-
-      // lazy load images
-      $('.image').visibility({
-        type: 'image',
-        transition: 'vertical flip in',
-        duration: 500
-      });
-
-      // show dropdown on hover
-      $('.main.menu  .ui.dropdown').dropdown({
-        on: 'hover'
-      });
-    })
-  ;
+	<app-root>Loading...</app-root>
+	<script src="assets/jquery/jquery.min.js"></script>
+	<script src="assets/semantic-ui/semantic.min.js"></script>
+	<script>
+	<!--icky sticky header code -->
+	  $(document)
+	    .ready(function() {
+	      // fix main menu to page on passing
+	      $('.main.menu').visibility({
+	        type: 'fixed'
+	      });
+	      $('.overlay').visibility({
+	        type: 'fixed',
+	        offset: 80
+	      });
+	
+	      // lazy load images
+	      $('.image').visibility({
+	        type: 'image',
+	        transition: 'vertical flip in',
+	        duration: 500
+	      });
+	
+	      // show dropdown on hover
+	      $('.main.menu  .ui.dropdown').dropdown({
+	        on: 'hover'
+	      });
+	    }); 
   </script>
 </body>
 </html>

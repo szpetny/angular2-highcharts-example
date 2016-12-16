@@ -5,7 +5,7 @@
         "props": {
           "ABBR_TITLE": "mark",
           "TEXT": "M",
-          "A_HREF": "/torba/torba_archive_help.html#Mark",
+          "A_HREF": "/eso/eso_archive_help.html#Mark",
           "ABBR_TEXT": "M",
           "ID": "mark"
         }
@@ -14,7 +14,7 @@
         "props": {
           "ABBR_TITLE": "more",
           "TEXT": "More",
-          "A_HREF": "/torba/torba_archive_help.html#More",
+          "A_HREF": "/eso/eso_archive_help.html#More",
           "ABBR_TEXT": "More",
           "ID": "more"
         }
@@ -23,7 +23,7 @@
         "props": {
           "ABBR_TITLE": "HDR",
           "TEXT": "HDR",
-          "A_HREF": "/torba/torba_archive_help.html#Header",
+          "A_HREF": "/eso/eso_archive_help.html#Header",
           "ABBR_TEXT": "HDR",
           "ID": "HDR"
         }
@@ -32,7 +32,7 @@
         "props": {
           "ABBR_TITLE": "object: Target designation (as given by the astronomer)",
           "TEXT": "OBJECT",
-          "A_HREF": "/torba/torba_archive_help.html#OBJECT",
+          "A_HREF": "/eso/eso_archive_help.html#OBJECT",
           "ABBR_TEXT": "OBJECT",
           "ID": "object"
         }
@@ -41,7 +41,7 @@
         "props": {
           "ABBR_TITLE": "target_coord",
           "TEXT": "Target Ra, Dec",
-          "A_HREF": "/torba/torba_archive_help.html#Output",
+          "A_HREF": "/eso/eso_archive_help.html#Output",
           "ABBR_TEXT": "Target Ra, Dec",
           "ID": "target_coord"
         }
@@ -50,7 +50,7 @@
         "props": {
           "ABBR_TITLE": "prog_id: ESO program identification code",
           "TEXT": "Program_ID",
-          "A_HREF": "/torba/torba_archive_help.html#Prog_ID",
+          "A_HREF": "/eso/eso_archive_help.html#Prog_ID",
           "ABBR_TEXT": "Program_ID",
           "ID": "prog_id"
         }
@@ -59,7 +59,7 @@
         "props": {
           "ABBR_TITLE": "instrument: Instrument name",
           "TEXT": "Instrument",
-          "A_HREF": "/torba/torba_archive_help.html#InsMode",
+          "A_HREF": "/eso/eso_archive_help.html#InsMode",
           "ABBR_TEXT": "Instrument",
           "ID": "instrument"
         }
@@ -68,7 +68,7 @@
         "props": {
           "ABBR_TITLE": "dp_cat: Observation category",
           "TEXT": "Category",
-          "A_HREF": "/torba/torba_archive_help.html#DPR_category",
+          "A_HREF": "/eso/eso_archive_help.html#DPR_category",
           "ABBR_TEXT": "Category",
           "ID": "dp_cat"
         }
@@ -77,7 +77,7 @@
         "props": {
           "ABBR_TITLE": "dp_type: Type of observation/exposure",
           "TEXT": "Type",
-          "A_HREF": "/torba/torba_archive_help.html#DPR_Type",
+          "A_HREF": "/eso/eso_archive_help.html#DPR_Type",
           "ABBR_TEXT": "Type",
           "ID": "dp_type"
         }
@@ -86,7 +86,7 @@
         "props": {
           "ABBR_TITLE": "dp_tech: Mode/technique used for the observation",
           "TEXT": "Mode",
-          "A_HREF": "/torba/torba_archive_help.html#DPR_Tech",
+          "A_HREF": "/eso/eso_archive_help.html#DPR_Tech",
           "ABBR_TEXT": "Mode",
           "ID": "dp_tech"
         }
@@ -95,7 +95,7 @@
         "props": {
           "ABBR_TITLE": "dp_id: Dataset ID",
           "TEXT": "Dataset ID",
-          "A_HREF": "/torba/torba_archive_help.html#DP_ID",
+          "A_HREF": "/eso/eso_archive_help.html#DP_ID",
           "ABBR_TEXT": "Dataset ID",
           "ID": "dp_id"
         }
@@ -104,7 +104,7 @@
         "props": {
           "ABBR_TITLE": "rel_date: Release date",
           "TEXT": "Release_Date",
-          "A_HREF": "/torba/torba_archive_help.html#Release_Date",
+          "A_HREF": "/eso/eso_archive_help.html#Release_Date",
           "ABBR_TEXT": "Release_Date",
           "ID": "rel_date"
         }
@@ -113,7 +113,7 @@
         "props": {
           "ABBR_TITLE": "tpl_id: The observing template identifier, a unique ID assigned to a template, that is, to a pre-defined sequence of operations involving any combination of telescope, instrument and detector actions.",
           "TEXT": "TPL ID",
-          "A_HREF": "/torba/torba_archive_help.html#TPL_ID",
+          "A_HREF": "/eso/eso_archive_help.html#TPL_ID",
           "ABBR_TEXT": "TPL ID",
           "ID": "tpl_id"
         }
@@ -122,7 +122,7 @@
         "props": {
           "ABBR_TITLE": "tpl_start: The start time of the execution of the observing template.",
           "TEXT": "TPL START",
-          "A_HREF": "/torba/torba_archive_help.html#TPL_START",
+          "A_HREF": "/eso/eso_archive_help.html#TPL_START",
           "ABBR_TEXT": "TPL START",
           "ID": "tpl_start"
         }
@@ -131,7 +131,7 @@
         "props": {
           "ABBR_TITLE": "exptime: Total exposure time on target",
           "TEXT": "Exptime",
-          "A_HREF": "/torba/torba_archive_help.html#Exptime",
+          "A_HREF": "/eso/eso_archive_help.html#Exptime",
           "ABBR_TEXT": "Exptime",
           "ID": "exptime"
         }
@@ -140,7 +140,7 @@
         "props": {
           "ABBR_TITLE": "filter_path: Filter",
           "TEXT": "Filter",
-          "A_HREF": "/torba/torba_archive_help.html#Filter",
+          "A_HREF": "/eso/eso_archive_help.html#Filter",
           "ABBR_TEXT": "Filter",
           "ID": "filter_path"
         }
@@ -149,7 +149,7 @@
         "props": {
           "ABBR_TITLE": "mjd_obs: Modified Julian Date (JD - 2400000.5) of the start of the observation",
           "TEXT": "MJD-OBS",
-          "A_HREF": "/torba/torba_archive_help.html#MJD",
+          "A_HREF": "/eso/eso_archive_help.html#MJD",
           "ABBR_TEXT": "MJD-OBS",
           "ID": "mjd_obs"
         }
@@ -158,7 +158,7 @@
         "props": {
           "ABBR_TITLE": "tel_airm_start: The airmass at the start of the observation",
           "TEXT": "Airmass",
-          "A_HREF": "/torba/torba_archive_help.html#Airmass",
+          "A_HREF": "/eso/eso_archive_help.html#Airmass",
           "ABBR_TEXT": "Airmass",
           "ID": "tel_airm_start"
         }
@@ -167,7 +167,7 @@
         "props": {
           "ABBR_TITLE": "ambient",
           "TEXT": "Ambient",
-          "A_HREF": "/torba/torba_archive_help.html#DIMM-Savg",
+          "A_HREF": "/eso/eso_archive_help.html#DIMM-Savg",
           "ABBR_TEXT": "Ambient",
           "ID": "ambient"
         }
@@ -178,14 +178,115 @@
     "cells": [
       {
         "props": {
-          "INPUT_VAL": "SAF+KMOS.2014-06-06T16:12:43.181",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_VAL": "SAF+GROND.2014-09-04T00:27:36.829",
+          "RESTRICTED": "true",
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=KMOS.2014-06-06T16:12:43.181&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-09-04T00:27:36.829&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "Header",
+          "A_HREF": "/hdr?DpId=GROND.2014-09-04T00:27:36.829"
+        }
+      },
+      {
+        "props": {}
+      },
+      {
+        "props": {
+          "TEXT": "20:08:52.84 -65:27:50.5"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "093.A-9099(A)",
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9099(A)"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "GROND"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "SCIENCE"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "OBJECT"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "IMAGE"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "GROND.2014-09-04T00:27:36.829"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "Sep  4 2024"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "GROND_img_obs_exp"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "2014-09-04T00:22:13"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "66.007"
+        }
+      },
+      {
+        "props": {}
+      },
+      {
+        "props": {
+          "TEXT": "56904.019176"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "1.285"
+        }
+      },
+      {
+        "props": {
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56904.019176260000000&exptime=66.007&mark=GROND.2014-09-04T00:27:36.829"
+        }
+      }
+    ]
+  },
+  {
+    "cells": [
+      {
+        "props": {
+          "INPUT_VAL": "SAF+KMOS.2014-06-06T16:12:43.181",
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
+        }
+      },
+      {
+        "props": {
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=KMOS.2014-06-06T16:12:43.181&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -205,7 +306,7 @@
       {
         "props": {
           "TEXT": "60.A-9254(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9254(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9254(A)"
         }
       },
       {
@@ -235,7 +336,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -268,8 +369,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.675499780000000&exptime=12.000&mark=KMOS.2014-06-06T16:12:43.181"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.675499780000000&exptime=12.000&mark=KMOS.2014-06-06T16:12:43.181"
         }
       }
     ]
@@ -279,13 +380,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GIRAF.2014-06-06T16:07:12.095",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GIRAF.2014-06-06T16:07:12.095&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GIRAF.2014-06-06T16:07:12.095&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -305,7 +406,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(B)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(B)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(B)"
         }
       },
       {
@@ -335,7 +436,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -368,8 +469,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.671667767000000&exptime=17.525&mark=GIRAF.2014-06-06T16:07:12.095"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.671667767000000&exptime=17.525&mark=GIRAF.2014-06-06T16:07:12.095"
         }
       }
     ]
@@ -379,13 +480,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GIRAF.2014-06-06T16:05:23.986",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GIRAF.2014-06-06T16:05:23.986&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GIRAF.2014-06-06T16:05:23.986&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -405,7 +506,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(B)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(B)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(B)"
         }
       },
       {
@@ -435,7 +536,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -468,8 +569,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.670416510000000&exptime=17.519&mark=GIRAF.2014-06-06T16:05:23.986"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.670416510000000&exptime=17.519&mark=GIRAF.2014-06-06T16:05:23.986"
         }
       }
     ]
@@ -479,13 +580,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2014-06-06T16:11:44.668",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2014-06-06T16:11:44.668&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2014-06-06T16:11:44.668&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -505,7 +606,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -535,7 +636,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -566,8 +667,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.674822553000000&exptime=5.134&mark=XSHOO.2014-06-06T16:11:44.668"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.674822553000000&exptime=5.134&mark=XSHOO.2014-06-06T16:11:44.668"
         }
       }
     ]
@@ -577,13 +678,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2014-06-06T16:09:44.659",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2014-06-06T16:09:44.659&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2014-06-06T16:09:44.659&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -603,7 +704,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -633,7 +734,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -664,8 +765,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.673433552000000&exptime=5.134&mark=XSHOO.2014-06-06T16:09:44.659"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.673433552000000&exptime=5.134&mark=XSHOO.2014-06-06T16:09:44.659"
         }
       }
     ]
@@ -675,13 +776,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+KMOS.2014-06-06T16:10:21.043",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=KMOS.2014-06-06T16:10:21.043&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=KMOS.2014-06-06T16:10:21.043&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -701,7 +802,7 @@
       {
         "props": {
           "TEXT": "60.A-9254(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9254(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9254(A)"
         }
       },
       {
@@ -731,7 +832,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -764,8 +865,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.673854670000000&exptime=12.000&mark=KMOS.2014-06-06T16:10:21.043"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.673854670000000&exptime=12.000&mark=KMOS.2014-06-06T16:10:21.043"
         }
       }
     ]
@@ -775,13 +876,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+KMOS.2014-06-06T16:03:37.472",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=KMOS.2014-06-06T16:03:37.472&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=KMOS.2014-06-06T16:03:37.472&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -801,7 +902,7 @@
       {
         "props": {
           "TEXT": "60.A-9254(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9254(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9254(A)"
         }
       },
       {
@@ -831,7 +932,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -864,8 +965,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.669183700000000&exptime=3.000&mark=KMOS.2014-06-06T16:03:37.472"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.669183700000000&exptime=3.000&mark=KMOS.2014-06-06T16:03:37.472"
         }
       }
     ]
@@ -875,13 +976,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2014-06-06T16:08:44.664",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2014-06-06T16:08:44.664&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2014-06-06T16:08:44.664&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -901,7 +1002,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -931,7 +1032,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -962,8 +1063,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.672739168000000&exptime=5.134&mark=XSHOO.2014-06-06T16:08:44.664"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.672739168000000&exptime=5.134&mark=XSHOO.2014-06-06T16:08:44.664"
         }
       }
     ]
@@ -973,13 +1074,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+KMOS.2014-06-06T16:02:35.514",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=KMOS.2014-06-06T16:02:35.514&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=KMOS.2014-06-06T16:02:35.514&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -999,7 +1100,7 @@
       {
         "props": {
           "TEXT": "60.A-9254(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9254(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9254(A)"
         }
       },
       {
@@ -1029,7 +1130,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -1062,8 +1163,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.668466600000000&exptime=3.000&mark=KMOS.2014-06-06T16:02:35.514"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.668466600000000&exptime=3.000&mark=KMOS.2014-06-06T16:02:35.514"
         }
       }
     ]
@@ -1073,13 +1174,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2014-06-06T16:20:51.372",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2014-06-06T16:20:51.372&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2014-06-06T16:20:51.372&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1099,7 +1200,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -1129,7 +1230,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -1160,8 +1261,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.681150145000000&exptime=11.847&mark=XSHOO.2014-06-06T16:20:51.372"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.681150145000000&exptime=11.847&mark=XSHOO.2014-06-06T16:20:51.372"
         }
       }
     ]
@@ -1171,13 +1272,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2014-06-06T16:19:47.377",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2014-06-06T16:19:47.377&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2014-06-06T16:19:47.377&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1197,7 +1298,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -1227,7 +1328,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -1258,8 +1359,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.680409460000000&exptime=11.847&mark=XSHOO.2014-06-06T16:19:47.377"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.680409460000000&exptime=11.847&mark=XSHOO.2014-06-06T16:19:47.377"
         }
       }
     ]
@@ -1269,13 +1370,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2014-06-06T16:19:17.975",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2014-06-06T16:19:17.975&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2014-06-06T16:19:17.975&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1295,7 +1396,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -1325,7 +1426,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -1356,8 +1457,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.680069156000000&exptime=11.847&mark=XSHOO.2014-06-06T16:19:17.975"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.680069156000000&exptime=11.847&mark=XSHOO.2014-06-06T16:19:17.975"
         }
       }
     ]
@@ -1367,13 +1468,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2014-06-06T16:21:24.705",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2014-06-06T16:21:24.705&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2014-06-06T16:21:24.705&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1393,7 +1494,7 @@
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -1423,7 +1524,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -1454,8 +1555,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.681535940000000&exptime=11.847&mark=XSHOO.2014-06-06T16:21:24.705"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56814.681535940000000&exptime=11.847&mark=XSHOO.2014-06-06T16:21:24.705"
         }
       }
     ]
@@ -1465,13 +1566,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+EFOSC.2014-06-06T16:22:52.819",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=EFOSC.2014-06-06T16:22:52.819&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=EFOSC.2014-06-06T16:22:52.819&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1487,13 +1588,13 @@
       },
       {
         "props": {
-          "TEXT": "01:05:17.84-23:20:11.9"
+          "TEXT": "01:05:17.84 -23:20:11.9"
         }
       },
       {
         "props": {
           "TEXT": "59.A-9002(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=59.A-9002(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=59.A-9002(A)"
         }
       },
       {
@@ -1523,7 +1624,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -1558,8 +1659,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56814.682555780000000&exptime=41.310&mark=EFOSC.2014-06-06T16:22:52.819"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56814.682555780000000&exptime=41.310&mark=EFOSC.2014-06-06T16:22:52.819"
         }
       }
     ]
@@ -1569,13 +1670,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+EFOSC.2014-06-06T16:33:40.542",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=EFOSC.2014-06-06T16:33:40.542&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=EFOSC.2014-06-06T16:33:40.542&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1591,13 +1692,13 @@
       },
       {
         "props": {
-          "TEXT": "01:05:17.84-23:20:11.9"
+          "TEXT": "01:05:17.84 -23:20:11.9"
         }
       },
       {
         "props": {
           "TEXT": "59.A-9002(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=59.A-9002(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=59.A-9002(A)"
         }
       },
       {
@@ -1627,7 +1728,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -1662,8 +1763,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56814.690052570000000&exptime=27.390&mark=EFOSC.2014-06-06T16:33:40.542"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56814.690052570000000&exptime=27.390&mark=EFOSC.2014-06-06T16:33:40.542"
         }
       }
     ]
@@ -1673,13 +1774,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+EFOSC.2014-06-06T16:29:34.480",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=EFOSC.2014-06-06T16:29:34.480&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=EFOSC.2014-06-06T16:29:34.480&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1695,13 +1796,13 @@
       },
       {
         "props": {
-          "TEXT": "01:05:17.84-23:20:11.9"
+          "TEXT": "01:05:17.84 -23:20:11.9"
         }
       },
       {
         "props": {
           "TEXT": "59.A-9002(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=59.A-9002(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=59.A-9002(A)"
         }
       },
       {
@@ -1731,7 +1832,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62014"
+          "TEXT": "Jun  6 2014"
         }
       },
       {
@@ -1766,8 +1867,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56814.687204630000000&exptime=27.390&mark=EFOSC.2014-06-06T16:29:34.480"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56814.687204630000000&exptime=27.390&mark=EFOSC.2014-06-06T16:29:34.480"
         }
       }
     ]
@@ -1777,13 +1878,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+PIONI.2015-09-30T09:25:34.201",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=PIONI.2015-09-30T09:25:34.201&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=PIONI.2015-09-30T09:25:34.201&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1803,7 +1904,7 @@
       {
         "props": {
           "TEXT": "60.A-9101(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9101(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9101(A)"
         }
       },
       {
@@ -1833,7 +1934,7 @@
       },
       {
         "props": {
-          "TEXT": "Sep302015"
+          "TEXT": "Sep 30 2015"
         }
       },
       {
@@ -1866,8 +1967,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=57295.392756964100000&exptime=10.240&mark=PIONI.2015-09-30T09:25:34.201"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=57295.392756964100000&exptime=10.240&mark=PIONI.2015-09-30T09:25:34.201"
         }
       }
     ]
@@ -1877,13 +1978,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+CRIRE.2014-07-16T04:20:01.347",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=CRIRE.2014-07-16T04:20:01.347&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=CRIRE.2014-07-16T04:20:01.347&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -1899,13 +2000,13 @@
       },
       {
         "props": {
-          "TEXT": "19:54:44.72+00:16:26.0"
+          "TEXT": "19:54:44.72 +00:16:26.0"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9051(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9051(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9051(A)"
         }
       },
       {
@@ -1935,7 +2036,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -1970,8 +2071,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180571150000000&exptime=10&mark=CRIRE.2014-07-16T04:20:01.347"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180571150000000&exptime=10&mark=CRIRE.2014-07-16T04:20:01.347"
         }
       }
     ]
@@ -1981,13 +2082,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+CRIRE.2014-07-16T04:20:35.837",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=CRIRE.2014-07-16T04:20:35.837&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=CRIRE.2014-07-16T04:20:35.837&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2003,13 +2104,13 @@
       },
       {
         "props": {
-          "TEXT": "19:54:44.49+00:16:16.7"
+          "TEXT": "19:54:44.49 +00:16:16.7"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9051(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9051(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9051(A)"
         }
       },
       {
@@ -2039,7 +2140,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -2074,8 +2175,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180970330000000&exptime=10&mark=CRIRE.2014-07-16T04:20:35.837"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180970330000000&exptime=10&mark=CRIRE.2014-07-16T04:20:35.837"
         }
       }
     ]
@@ -2085,13 +2186,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-07-16T04:19:51.001",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-07-16T04:19:51.001&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-07-16T04:19:51.001&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2102,18 +2203,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "19:13:58.23-24:37:39.4"
+          "TEXT": "19:13:58.23 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -2143,7 +2244,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -2172,8 +2273,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180451400000000&exptime=8.000&mark=MASCOT.2014-07-16T04:19:51.001"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180451400000000&exptime=8.000&mark=MASCOT.2014-07-16T04:19:51.001"
         }
       }
     ]
@@ -2183,13 +2284,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:22:57.551",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:22:57.551&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:22:57.551&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2203,13 +2304,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.06+16:43:33.9"
+          "TEXT": "20:24:35.06 +16:43:33.9"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -2239,7 +2340,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -2272,8 +2373,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.182610540000000&exptime=6.000&mark=GROND.2014-07-16T04:22:57.551"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.182610540000000&exptime=6.000&mark=GROND.2014-07-16T04:22:57.551"
         }
       }
     ]
@@ -2283,13 +2384,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:20:37.800",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:20:37.800&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:20:37.800&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2303,13 +2404,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.00+16:43:34.0"
+          "TEXT": "20:24:35.00 +16:43:34.0"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -2339,7 +2440,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -2372,8 +2473,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.180993060000000&exptime=6.000&mark=GROND.2014-07-16T04:20:37.800"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.180993060000000&exptime=6.000&mark=GROND.2014-07-16T04:20:37.800"
         }
       }
     ]
@@ -2383,13 +2484,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:18:18.812",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:18:18.812&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:18:18.812&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2403,13 +2504,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:34.98+16:43:34.0"
+          "TEXT": "20:24:34.98 +16:43:34.0"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -2439,7 +2540,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -2472,8 +2573,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.179384400000000&exptime=106.000&mark=GROND.2014-07-16T04:18:18.812"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.179384400000000&exptime=106.000&mark=GROND.2014-07-16T04:18:18.812"
         }
       }
     ]
@@ -2483,13 +2584,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:22:21.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:22:21.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:22:21.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2509,7 +2610,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -2539,7 +2640,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -2572,8 +2673,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.182187500000000&exptime=1.2&mark=MIDI.2014-07-16T04:22:21.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.182187500000000&exptime=1.2&mark=MIDI.2014-07-16T04:22:21.000"
         }
       }
     ]
@@ -2583,13 +2684,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:19:35.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:19:35.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:19:35.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2609,7 +2710,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -2639,7 +2740,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -2672,8 +2773,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180266200000000&exptime=22&mark=MIDI.2014-07-16T04:19:35.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180266200000000&exptime=22&mark=MIDI.2014-07-16T04:19:35.000"
         }
       }
     ]
@@ -2683,13 +2784,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-07-16T04:18:22.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-07-16T04:18:22.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-07-16T04:18:22.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2700,18 +2801,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "19:12:28.99-24:37:39.4"
+          "TEXT": "19:12:28.99 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -2741,7 +2842,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -2770,8 +2871,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.179421300000000&exptime=8.000&mark=MASCOT.2014-07-16T04:18:22.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.179421300000000&exptime=8.000&mark=MASCOT.2014-07-16T04:18:22.000"
         }
       }
     ]
@@ -2781,13 +2882,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:18:47.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:18:47.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:18:47.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2807,7 +2908,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -2837,7 +2938,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -2870,8 +2971,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.179710650000000&exptime=20&mark=MIDI.2014-07-16T04:18:47.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.179710650000000&exptime=20&mark=MIDI.2014-07-16T04:18:47.000"
         }
       }
     ]
@@ -2881,13 +2982,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:19:26.830",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:19:26.830&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:19:26.830&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -2901,13 +3002,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:34.98+16:43:34.0"
+          "TEXT": "20:24:34.98 +16:43:34.0"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -2937,7 +3038,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -2970,8 +3071,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.180171640000000&exptime=6.000&mark=GROND.2014-07-16T04:19:26.830"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.180171640000000&exptime=6.000&mark=GROND.2014-07-16T04:19:26.830"
         }
       }
     ]
@@ -2981,13 +3082,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:18:17.963",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:18:17.963&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:18:17.963&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3001,13 +3102,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.03+16:43:33.8"
+          "TEXT": "20:24:35.03 +16:43:33.8"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -3037,7 +3138,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -3070,8 +3171,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.179374570000000&exptime=6.000&mark=GROND.2014-07-16T04:18:17.963"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.179374570000000&exptime=6.000&mark=GROND.2014-07-16T04:18:17.963"
         }
       }
     ]
@@ -3081,13 +3182,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:22:21.064",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:22:21.064&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:22:21.064&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3101,13 +3202,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.07+16:43:33.6"
+          "TEXT": "20:24:35.07 +16:43:33.6"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -3137,7 +3238,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -3170,8 +3271,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.182188240000000&exptime=6.000&mark=GROND.2014-07-16T04:22:21.064"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.182188240000000&exptime=6.000&mark=GROND.2014-07-16T04:22:21.064"
         }
       }
     ]
@@ -3181,13 +3282,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-07-16T04:16:54.002",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-07-16T04:16:54.002&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-07-16T04:16:54.002&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3198,18 +3299,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "19:11:00.75-24:37:39.4"
+          "TEXT": "19:11:00.75 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -3239,7 +3340,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -3268,8 +3369,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.178402800000000&exptime=8.000&mark=MASCOT.2014-07-16T04:16:54.002"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.178402800000000&exptime=8.000&mark=MASCOT.2014-07-16T04:16:54.002"
         }
       }
     ]
@@ -3279,13 +3380,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:20:23.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:20:23.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:20:23.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3305,7 +3406,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -3335,7 +3436,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -3368,8 +3469,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180821760000000&exptime=24&mark=MIDI.2014-07-16T04:20:23.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.180821760000000&exptime=24&mark=MIDI.2014-07-16T04:20:23.000"
         }
       }
     ]
@@ -3379,13 +3480,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-07-16T04:21:21.004",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-07-16T04:21:21.004&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-07-16T04:21:21.004&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3396,18 +3497,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "19:15:28.48-24:37:39.4"
+          "TEXT": "19:15:28.48 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -3437,7 +3538,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -3466,8 +3567,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.181493100000000&exptime=8.000&mark=MASCOT.2014-07-16T04:21:21.004"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.181493100000000&exptime=8.000&mark=MASCOT.2014-07-16T04:21:21.004"
         }
       }
     ]
@@ -3477,13 +3578,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:21:46.634",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:21:46.634&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:21:46.634&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3497,13 +3598,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.07+16:43:34.1"
+          "TEXT": "20:24:35.07 +16:43:34.1"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -3533,7 +3634,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -3566,8 +3667,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.181789740000000&exptime=6.000&mark=GROND.2014-07-16T04:21:46.634"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.181789740000000&exptime=6.000&mark=GROND.2014-07-16T04:21:46.634"
         }
       }
     ]
@@ -3577,13 +3678,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:18:52.392",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:18:52.392&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:18:52.392&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3597,13 +3698,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.02+16:43:33.3"
+          "TEXT": "20:24:35.02 +16:43:33.3"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -3633,7 +3734,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -3666,8 +3767,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.179773060000000&exptime=6.000&mark=GROND.2014-07-16T04:18:52.392"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.179773060000000&exptime=6.000&mark=GROND.2014-07-16T04:18:52.392"
         }
       }
     ]
@@ -3677,13 +3778,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:20:01.243",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:20:01.243&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:20:01.243&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3697,13 +3798,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:34.98+16:43:34.0"
+          "TEXT": "20:24:34.98 +16:43:34.0"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -3733,7 +3834,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -3766,8 +3867,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.180569940000000&exptime=6.000&mark=GROND.2014-07-16T04:20:01.243"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.180569940000000&exptime=6.000&mark=GROND.2014-07-16T04:20:01.243"
         }
       }
     ]
@@ -3777,13 +3878,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:21:05.790",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:21:05.790&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:21:05.790&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3803,7 +3904,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -3833,7 +3934,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -3864,8 +3965,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.181317006800000&exptime=0.000&mark=MIDI.2014-07-16T04:21:05.790"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.181317006800000&exptime=0.000&mark=MIDI.2014-07-16T04:21:05.790"
         }
       }
     ]
@@ -3875,13 +3976,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:20:38.756",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:20:38.756&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:20:38.756&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3895,13 +3996,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.07+16:43:33.6"
+          "TEXT": "20:24:35.07 +16:43:33.6"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -3931,7 +4032,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -3964,8 +4065,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.181004120000000&exptime=106.008&mark=GROND.2014-07-16T04:20:38.756"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.181004120000000&exptime=106.008&mark=GROND.2014-07-16T04:20:38.756"
         }
       }
     ]
@@ -3975,13 +4076,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+CRIRE.2014-07-16T04:24:22.549",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=CRIRE.2014-07-16T04:24:22.549&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=CRIRE.2014-07-16T04:24:22.549&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -3997,13 +4098,13 @@
       },
       {
         "props": {
-          "TEXT": "19:54:44.50+00:16:16.5"
+          "TEXT": "19:54:44.50 +00:16:16.5"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9051(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9051(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9051(A)"
         }
       },
       {
@@ -4033,7 +4134,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -4068,8 +4169,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.183594320000000&exptime=10&mark=CRIRE.2014-07-16T04:24:22.549"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.183594320000000&exptime=10&mark=CRIRE.2014-07-16T04:24:22.549"
         }
       }
     ]
@@ -4079,13 +4180,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+CRIRE.2014-07-16T04:25:42.593",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=CRIRE.2014-07-16T04:25:42.593&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=CRIRE.2014-07-16T04:25:42.593&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4101,13 +4202,13 @@
       },
       {
         "props": {
-          "TEXT": "19:54:44.71+00:16:25.9"
+          "TEXT": "19:54:44.71 +00:16:25.9"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9051(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9051(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9051(A)"
         }
       },
       {
@@ -4137,7 +4238,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -4172,8 +4273,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.184520750000000&exptime=20&mark=CRIRE.2014-07-16T04:25:42.593"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.184520750000000&exptime=20&mark=CRIRE.2014-07-16T04:25:42.593"
         }
       }
     ]
@@ -4183,13 +4284,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:26:23.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:26:23.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:26:23.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4209,7 +4310,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -4239,7 +4340,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -4272,8 +4373,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.184988430000000&exptime=9.6&mark=MIDI.2014-07-16T04:26:23.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.184988430000000&exptime=9.6&mark=MIDI.2014-07-16T04:26:23.000"
         }
       }
     ]
@@ -4283,13 +4384,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:27:37.141",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:27:37.141&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:27:37.141&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4303,13 +4404,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.06+16:43:34.1"
+          "TEXT": "20:24:35.06 +16:43:34.1"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -4339,7 +4440,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -4372,8 +4473,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.185846540000000&exptime=6.000&mark=GROND.2014-07-16T04:27:37.141"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.185846540000000&exptime=6.000&mark=GROND.2014-07-16T04:27:37.141"
         }
       }
     ]
@@ -4383,13 +4484,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:24:33.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:24:33.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:24:33.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4409,7 +4510,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -4439,7 +4540,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -4472,8 +4573,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.183715280000000&exptime=6&mark=MIDI.2014-07-16T04:24:33.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.183715280000000&exptime=6&mark=MIDI.2014-07-16T04:24:33.000"
         }
       }
     ]
@@ -4483,13 +4584,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+CRIRE.2014-07-16T04:28:18.991",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=CRIRE.2014-07-16T04:28:18.991&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=CRIRE.2014-07-16T04:28:18.991&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4505,13 +4606,13 @@
       },
       {
         "props": {
-          "TEXT": "19:54:44.71+00:16:25.9"
+          "TEXT": "19:54:44.71 +00:16:25.9"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9051(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9051(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9051(A)"
         }
       },
       {
@@ -4541,7 +4642,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -4576,8 +4677,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.186330920000000&exptime=30&mark=CRIRE.2014-07-16T04:28:18.991"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.186330920000000&exptime=30&mark=CRIRE.2014-07-16T04:28:18.991"
         }
       }
     ]
@@ -4587,13 +4688,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+CRIRE.2014-07-16T04:29:18.240",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=CRIRE.2014-07-16T04:29:18.240&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=CRIRE.2014-07-16T04:29:18.240&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4609,13 +4710,13 @@
       },
       {
         "props": {
-          "TEXT": "19:54:44.52+00:16:16.3"
+          "TEXT": "19:54:44.52 +00:16:16.3"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9051(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9051(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9051(A)"
         }
       },
       {
@@ -4645,7 +4746,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -4680,8 +4781,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.187016670000000&exptime=30&mark=CRIRE.2014-07-16T04:29:18.240"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.187016670000000&exptime=30&mark=CRIRE.2014-07-16T04:29:18.240"
         }
       }
     ]
@@ -4691,13 +4792,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-07-16T04:31:37.001",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-07-16T04:31:37.001&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-07-16T04:31:37.001&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4708,18 +4809,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "19:25:46.16-24:37:39.4"
+          "TEXT": "19:25:46.16 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -4749,7 +4850,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -4778,8 +4879,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.188622700000000&exptime=8.000&mark=MASCOT.2014-07-16T04:31:37.001"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.188622700000000&exptime=8.000&mark=MASCOT.2014-07-16T04:31:37.001"
         }
       }
     ]
@@ -4789,13 +4890,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-07-16T04:29:57.940",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-07-16T04:29:57.940&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-07-16T04:29:57.940&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4809,13 +4910,13 @@
       },
       {
         "props": {
-          "TEXT": "20:24:35.08+16:43:34.4"
+          "TEXT": "20:24:35.08 +16:43:34.4"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9007(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9007(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9007(A)"
         }
       },
       {
@@ -4845,7 +4946,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162015"
+          "TEXT": "Jul 16 2015"
         }
       },
       {
@@ -4878,8 +4979,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.187476160000000&exptime=106.012&mark=GROND.2014-07-16T04:29:57.940"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56854.187476160000000&exptime=106.012&mark=GROND.2014-07-16T04:29:57.940"
         }
       }
     ]
@@ -4889,13 +4990,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:30:00.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:30:00.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:30:00.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -4915,7 +5016,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -4945,7 +5046,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -4978,8 +5079,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.187500000000000&exptime=4.8&mark=MIDI.2014-07-16T04:30:00.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.187500000000000&exptime=4.8&mark=MIDI.2014-07-16T04:30:00.000"
         }
       }
     ]
@@ -4989,13 +5090,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-07-16T04:27:14.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-07-16T04:27:14.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-07-16T04:27:14.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5006,18 +5107,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "19:21:22.44-24:37:39.4"
+          "TEXT": "19:21:22.44 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -5047,7 +5148,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -5076,8 +5177,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.185578700000000&exptime=8.000&mark=MASCOT.2014-07-16T04:27:14.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.185578700000000&exptime=8.000&mark=MASCOT.2014-07-16T04:27:14.000"
         }
       }
     ]
@@ -5087,13 +5188,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MIDI.2014-07-16T04:30:38.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MIDI.2014-07-16T04:30:38.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MIDI.2014-07-16T04:30:38.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5113,7 +5214,7 @@
       {
         "props": {
           "TEXT": "60.A-9224(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9224(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9224(A)"
         }
       },
       {
@@ -5143,7 +5244,7 @@
       },
       {
         "props": {
-          "TEXT": "Jul162014"
+          "TEXT": "Jul 16 2014"
         }
       },
       {
@@ -5176,8 +5277,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.187939810000000&exptime=7.2&mark=MIDI.2014-07-16T04:30:38.000"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56854.187939810000000&exptime=7.2&mark=MIDI.2014-07-16T04:30:38.000"
         }
       }
     ]
@@ -5187,13 +5288,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-09-04T00:27:56.004",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-09-04T00:27:56.004&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-09-04T00:27:56.004&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5204,18 +5305,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "18:38:32.90-24:37:39.4"
+          "TEXT": "18:38:32.90 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -5245,7 +5346,7 @@
       },
       {
         "props": {
-          "TEXT": "Sep42014"
+          "TEXT": "Sep  4 2014"
         }
       },
       {
@@ -5274,8 +5375,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.019398200000000&exptime=8.000&mark=MASCOT.2014-09-04T00:27:56.004"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.019398200000000&exptime=8.000&mark=MASCOT.2014-09-04T00:27:56.004"
         }
       }
     ]
@@ -5285,13 +5386,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+HARPS.2014-09-04T00:24:54.474",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=HARPS.2014-09-04T00:24:54.474&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=HARPS.2014-09-04T00:24:54.474&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5307,13 +5408,13 @@
       },
       {
         "props": {
-          "TEXT": "16:14:12.10-31:39:52.8"
+          "TEXT": "16:14:12.10 -31:39:52.8"
         }
       },
       {
         "props": {
           "TEXT": "188.C-0265(L)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=188.C-0265(L)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=188.C-0265(L)"
         }
       },
       {
@@ -5343,7 +5444,7 @@
       },
       {
         "props": {
-          "TEXT": "Sep42015"
+          "TEXT": "Sep  4 2015"
         }
       },
       {
@@ -5376,8 +5477,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56904.017297150000000&exptime=380.001&mark=HARPS.2014-09-04T00:24:54.474"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56904.017297150000000&exptime=380.001&mark=HARPS.2014-09-04T00:24:54.474"
         }
       }
     ]
@@ -5387,13 +5488,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-09-04T00:29:24.003",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-09-04T00:29:24.003&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-09-04T00:29:24.003&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5404,18 +5505,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "18:40:01.14-24:37:39.4"
+          "TEXT": "18:40:01.14 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -5445,7 +5546,7 @@
       },
       {
         "props": {
-          "TEXT": "Sep42014"
+          "TEXT": "Sep  4 2014"
         }
       },
       {
@@ -5474,8 +5575,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.020416700000000&exptime=8.000&mark=MASCOT.2014-09-04T00:29:24.003"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.020416700000000&exptime=8.000&mark=MASCOT.2014-09-04T00:29:24.003"
         }
       }
     ]
@@ -5485,13 +5586,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+VCAM.2014-09-04T00:28:24.542",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=VCAM.2014-09-04T00:28:24.542&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=VCAM.2014-09-04T00:28:24.542&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5502,18 +5603,18 @@
       },
       {
         "props": {
-          "TEXT": "NONAME"
+          "TEXT": "NO NAME"
         }
       },
       {
         "props": {
-          "TEXT": "22:23:03.53-29:25:30.8"
+          "TEXT": "22:23:03.53 -29:25:30.8"
         }
       },
       {
         "props": {
           "TEXT": "179.A-2004(I)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=179.A-2004(I)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=179.A-2004(I)"
         }
       },
       {
@@ -5543,7 +5644,7 @@
       },
       {
         "props": {
-          "TEXT": "Sep42014"
+          "TEXT": "Sep  4 2014"
         }
       },
       {
@@ -5578,8 +5679,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.019728500000000&exptime=60.000&mark=VCAM.2014-09-04T00:28:24.542"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.019728500000000&exptime=60.000&mark=VCAM.2014-09-04T00:28:24.542"
         }
       }
     ]
@@ -5589,13 +5690,14 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2014-09-04T00:27:36.829",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "RESTRICTED": "true",
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2014-09-04T00:27:36.829&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2014-09-04T00:27:36.829&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5609,13 +5711,13 @@
       },
       {
         "props": {
-          "TEXT": "20:08:52.84-65:27:50.5"
+          "TEXT": "20:08:52.84 -65:27:50.5"
         }
       },
       {
         "props": {
           "TEXT": "093.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=093.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=093.A-9099(A)"
         }
       },
       {
@@ -5645,7 +5747,7 @@
       },
       {
         "props": {
-          "TEXT": "Sep42024"
+          "TEXT": "Sep  4 2024"
         }
       },
       {
@@ -5678,8 +5780,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56904.019176260000000&exptime=66.007&mark=GROND.2014-09-04T00:27:36.829"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=56904.019176260000000&exptime=66.007&mark=GROND.2014-09-04T00:27:36.829"
         }
       }
     ]
@@ -5689,13 +5791,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MASCOT.2014-09-04T00:30:52.001",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MASCOT.2014-09-04T00:30:52.001&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MASCOT.2014-09-04T00:30:52.001&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5706,18 +5808,18 @@
       },
       {
         "props": {
-          "TEXT": "ALLSKY"
+          "TEXT": "ALL SKY"
         }
       },
       {
         "props": {
-          "TEXT": "18:41:29.38-24:37:39.4"
+          "TEXT": "18:41:29.38 -24:37:39.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9300(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9300(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9300(A)"
         }
       },
       {
@@ -5747,7 +5849,7 @@
       },
       {
         "props": {
-          "TEXT": "Sep42014"
+          "TEXT": "Sep  4 2014"
         }
       },
       {
@@ -5776,8 +5878,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.021435200000000&exptime=8.000&mark=MASCOT.2014-09-04T00:30:52.001"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.021435200000000&exptime=8.000&mark=MASCOT.2014-09-04T00:30:52.001"
         }
       }
     ]
@@ -5787,13 +5889,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-04-29T12:13:53.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-04-29T12:13:53.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-04-29T12:13:53.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5809,13 +5911,13 @@
       },
       {
         "props": {
-          "TEXT": "01:14:00.00-73:00:15.0"
+          "TEXT": "01:14:00.00 -73:00:15.0"
         }
       },
       {
         "props": {
           "TEXT": "094.F-9306(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=094.F-9306(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=094.F-9306(A)"
         }
       },
       {
@@ -5845,7 +5947,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct72016"
+          "TEXT": "Oct  7 2016"
         }
       },
       {
@@ -5882,13 +5984,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-05-09T13:40:20.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-05-09T13:40:20.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-05-09T13:40:20.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -5904,13 +6006,13 @@
       },
       {
         "props": {
-          "TEXT": "01:03:58.58-71:57:17.4"
+          "TEXT": "01:03:58.58 -71:57:17.4"
         }
       },
       {
         "props": {
           "TEXT": "094.F-9306(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=094.F-9306(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=094.F-9306(A)"
         }
       },
       {
@@ -5940,7 +6042,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct72016"
+          "TEXT": "Oct  7 2016"
         }
       },
       {
@@ -5977,13 +6079,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+PIONI.2016-06-06T09:55:16.864",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=PIONI.2016-06-06T09:55:16.864&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=PIONI.2016-06-06T09:55:16.864&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6003,7 +6105,7 @@
       {
         "props": {
           "TEXT": "60.A-9209(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9209(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9209(A)"
         }
       },
       {
@@ -6033,7 +6135,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6066,8 +6168,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6077,13 +6179,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+PIONI.2016-06-06T09:56:26.867",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=PIONI.2016-06-06T09:56:26.867&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=PIONI.2016-06-06T09:56:26.867&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6103,7 +6205,7 @@
       {
         "props": {
           "TEXT": "60.A-9209(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9209(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9209(A)"
         }
       },
       {
@@ -6133,7 +6235,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6166,8 +6268,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6177,13 +6279,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+PIONI.2016-06-06T09:56:17.246",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=PIONI.2016-06-06T09:56:17.246&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=PIONI.2016-06-06T09:56:17.246&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6203,7 +6305,7 @@
       {
         "props": {
           "TEXT": "60.A-9209(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9209(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9209(A)"
         }
       },
       {
@@ -6233,7 +6335,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6266,8 +6368,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6277,13 +6379,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+PIONI.2016-06-06T09:53:35.390",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=PIONI.2016-06-06T09:53:35.390&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=PIONI.2016-06-06T09:53:35.390&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6303,7 +6405,7 @@
       {
         "props": {
           "TEXT": "60.A-9209(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9209(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9209(A)"
         }
       },
       {
@@ -6333,7 +6435,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6366,8 +6468,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6377,13 +6479,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+OMEGA.2016-06-06T09:55:40.317",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=OMEGA.2016-06-06T09:55:40.317&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=OMEGA.2016-06-06T09:55:40.317&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6403,7 +6505,7 @@
       {
         "props": {
           "TEXT": "60.A-9038(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9038(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9038(A)"
         }
       },
       {
@@ -6433,7 +6535,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6466,8 +6568,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6477,13 +6579,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+PIONI.2016-06-06T09:54:54.865",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=PIONI.2016-06-06T09:54:54.865&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=PIONI.2016-06-06T09:54:54.865&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6503,7 +6605,7 @@
       {
         "props": {
           "TEXT": "60.A-9209(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9209(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9209(A)"
         }
       },
       {
@@ -6533,7 +6635,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6566,8 +6668,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6577,13 +6679,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+SPHER.2016-06-06T09:57:19.046",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=SPHER.2016-06-06T09:57:19.046&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=SPHER.2016-06-06T09:57:19.046&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6603,7 +6705,7 @@
       {
         "props": {
           "TEXT": "60.A-9255(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9255(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9255(A)"
         }
       },
       {
@@ -6633,7 +6735,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6664,8 +6766,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6675,13 +6777,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+OMEGA.2016-06-06T10:02:10.478",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=OMEGA.2016-06-06T10:02:10.478&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=OMEGA.2016-06-06T10:02:10.478&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6701,7 +6803,7 @@
       {
         "props": {
           "TEXT": "60.A-9038(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9038(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9038(A)"
         }
       },
       {
@@ -6731,7 +6833,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6764,8 +6866,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6775,13 +6877,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+MUSE.2016-06-06T10:01:34.238",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=MUSE.2016-06-06T10:01:34.238&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=MUSE.2016-06-06T10:01:34.238&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6801,7 +6903,7 @@
       {
         "props": {
           "TEXT": "60.A-9900(T)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9900(T)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9900(T)"
         }
       },
       {
@@ -6831,7 +6933,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6862,8 +6964,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6873,13 +6975,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+SPHER.2016-06-06T10:00:36.732",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=SPHER.2016-06-06T10:00:36.732&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=SPHER.2016-06-06T10:00:36.732&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6899,7 +7001,7 @@
       {
         "props": {
           "TEXT": "60.A-9255(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9255(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9255(A)"
         }
       },
       {
@@ -6929,7 +7031,7 @@
       },
       {
         "props": {
-          "TEXT": "Jun62016"
+          "TEXT": "Jun  6 2016"
         }
       },
       {
@@ -6960,8 +7062,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://www.torba.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://www.eso.org/asm/ui/publicLog?name=Paranal&hoursInterval=24&startDate=2016-06-05"
         }
       }
     ]
@@ -6971,13 +7073,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-11-18T06:33:49.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-11-18T06:33:49.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-11-18T06:33:49.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -6993,13 +7095,13 @@
       },
       {
         "props": {
-          "TEXT": "02:19:20.79-02:58:41.9"
+          "TEXT": "02:19:20.79 -02:58:41.9"
         }
       },
       {
         "props": {
           "TEXT": "096.F-9310(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.F-9310(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.F-9310(A)"
         }
       },
       {
@@ -7029,7 +7131,7 @@
       },
       {
         "props": {
-          "TEXT": "Nov182015"
+          "TEXT": "Nov 18 2015"
         }
       },
       {
@@ -7066,13 +7168,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-11-18T07:51:01.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-11-18T07:51:01.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-11-18T07:51:01.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7088,13 +7190,13 @@
       },
       {
         "props": {
-          "TEXT": "04:59:36.35-14:48:22.5"
+          "TEXT": "04:59:36.35 -14:48:22.5"
         }
       },
       {
         "props": {
           "TEXT": "096.F-9310(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.F-9310(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.F-9310(A)"
         }
       },
       {
@@ -7124,7 +7226,7 @@
       },
       {
         "props": {
-          "TEXT": "Nov182015"
+          "TEXT": "Nov 18 2015"
         }
       },
       {
@@ -7161,13 +7263,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-11-18T19:27:21.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-11-18T19:27:21.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-11-18T19:27:21.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7183,13 +7285,13 @@
       },
       {
         "props": {
-          "TEXT": "16:23:04.70-50:09:06.2"
+          "TEXT": "16:23:04.70 -50:09:06.2"
         }
       },
       {
         "props": {
           "TEXT": "095.F-9304(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=095.F-9304(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=095.F-9304(A)"
         }
       },
       {
@@ -7219,7 +7321,7 @@
       },
       {
         "props": {
-          "TEXT": "Nov212016"
+          "TEXT": "Nov 21 2016"
         }
       },
       {
@@ -7256,13 +7358,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-11-18T06:55:31.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-11-18T06:55:31.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-11-18T06:55:31.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7278,13 +7380,13 @@
       },
       {
         "props": {
-          "TEXT": "03:53:28.89+11:24:21.8"
+          "TEXT": "03:53:28.89 +11:24:21.8"
         }
       },
       {
         "props": {
           "TEXT": "096.F-9310(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.F-9310(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.F-9310(A)"
         }
       },
       {
@@ -7314,7 +7416,7 @@
       },
       {
         "props": {
-          "TEXT": "Nov182015"
+          "TEXT": "Nov 18 2015"
         }
       },
       {
@@ -7351,13 +7453,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-11-18T21:53:17.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-11-18T21:53:17.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-11-18T21:53:17.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7373,13 +7475,13 @@
       },
       {
         "props": {
-          "TEXT": "16:21:20.60-50:11:19.3"
+          "TEXT": "16:21:20.60 -50:11:19.3"
         }
       },
       {
         "props": {
           "TEXT": "095.F-9304(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=095.F-9304(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=095.F-9304(A)"
         }
       },
       {
@@ -7409,7 +7511,7 @@
       },
       {
         "props": {
-          "TEXT": "Nov212016"
+          "TEXT": "Nov 21 2016"
         }
       },
       {
@@ -7446,13 +7548,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-11-18T18:55:21.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-11-18T18:55:21.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-11-18T18:55:21.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7468,13 +7570,13 @@
       },
       {
         "props": {
-          "TEXT": "16:21:20.60-50:11:19.3"
+          "TEXT": "16:21:20.60 -50:11:19.3"
         }
       },
       {
         "props": {
           "TEXT": "095.F-9304(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=095.F-9304(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=095.F-9304(A)"
         }
       },
       {
@@ -7504,7 +7606,7 @@
       },
       {
         "props": {
-          "TEXT": "Nov212016"
+          "TEXT": "Nov 21 2016"
         }
       },
       {
@@ -7541,13 +7643,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+APEXHET.2015-11-18T06:42:31.000",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=APEXHET.2015-11-18T06:42:31.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=APEXHET.2015-11-18T06:42:31.000&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7563,13 +7665,13 @@
       },
       {
         "props": {
-          "TEXT": "02:19:20.79-02:58:41.9"
+          "TEXT": "02:19:20.79 -02:58:41.9"
         }
       },
       {
         "props": {
           "TEXT": "096.F-9310(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.F-9310(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.F-9310(A)"
         }
       },
       {
@@ -7599,7 +7701,7 @@
       },
       {
         "props": {
-          "TEXT": "Nov182015"
+          "TEXT": "Nov 18 2015"
         }
       },
       {
@@ -7636,13 +7738,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:45:35.688",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:45:35.688&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:45:35.688&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7658,13 +7760,13 @@
       },
       {
         "props": {
-          "TEXT": "06:04:01.10-29:10:47.4"
+          "TEXT": "06:04:01.10 -29:10:47.4"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -7694,7 +7796,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -7729,8 +7831,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.364996390000000&exptime=0.000&mark=WFI.2015-10-22T08:45:35.688"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.364996390000000&exptime=0.000&mark=WFI.2015-10-22T08:45:35.688"
         }
       }
     ]
@@ -7740,13 +7842,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:46:11.352",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:46:11.352&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:46:11.352&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7766,7 +7868,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -7796,7 +7898,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -7827,8 +7929,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.365409170000000&exptime=0.000&mark=GROND.2015-10-22T08:46:11.352"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.365409170000000&exptime=0.000&mark=GROND.2015-10-22T08:46:11.352"
         }
       }
     ]
@@ -7838,13 +7940,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:44:58.083",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:44:58.083&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:44:58.083&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7860,13 +7962,13 @@
       },
       {
         "props": {
-          "TEXT": "06:03:25.00-29:10:48.2"
+          "TEXT": "06:03:25.00 -29:10:48.2"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -7896,7 +7998,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -7931,8 +8033,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.364561150000000&exptime=0.000&mark=WFI.2015-10-22T08:44:58.083"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.364561150000000&exptime=0.000&mark=WFI.2015-10-22T08:44:58.083"
         }
       }
     ]
@@ -7942,13 +8044,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:46:51.696",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:46:51.696&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:46:51.696&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -7964,13 +8066,13 @@
       },
       {
         "props": {
-          "TEXT": "06:05:17.31-29:10:45.7"
+          "TEXT": "06:05:17.31 -29:10:45.7"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -8000,7 +8102,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8035,8 +8137,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.365876110000000&exptime=0.000&mark=WFI.2015-10-22T08:46:51.696"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.365876110000000&exptime=0.000&mark=WFI.2015-10-22T08:46:51.696"
         }
       }
     ]
@@ -8046,13 +8148,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:45:16.802",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:45:16.802&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:45:16.802&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8072,7 +8174,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -8102,7 +8204,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8133,8 +8235,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.364777800000000&exptime=0.000&mark=GROND.2015-10-22T08:45:16.802"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.364777800000000&exptime=0.000&mark=GROND.2015-10-22T08:45:16.802"
         }
       }
     ]
@@ -8144,13 +8246,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:46:14.462",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:46:14.462&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:46:14.462&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8166,13 +8268,13 @@
       },
       {
         "props": {
-          "TEXT": "06:04:39.21-29:10:46.5"
+          "TEXT": "06:04:39.21 -29:10:46.5"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -8202,7 +8304,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8237,8 +8339,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.365445160000000&exptime=0.000&mark=WFI.2015-10-22T08:46:14.462"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.365445160000000&exptime=0.000&mark=WFI.2015-10-22T08:46:14.462"
         }
       }
     ]
@@ -8248,13 +8350,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:52:24.983",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:52:24.983&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:52:24.983&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8270,13 +8372,13 @@
       },
       {
         "props": {
-          "TEXT": "06:10:52.23-29:10:38.1"
+          "TEXT": "06:10:52.23 -29:10:38.1"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -8306,7 +8408,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8341,8 +8443,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.369733600000000&exptime=0.000&mark=WFI.2015-10-22T08:52:24.983"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.369733600000000&exptime=0.000&mark=WFI.2015-10-22T08:52:24.983"
         }
       }
     ]
@@ -8352,13 +8454,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:50:07.422",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:50:07.422&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:50:07.422&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8378,7 +8480,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -8408,7 +8510,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8439,8 +8541,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368141460000000&exptime=0.000&mark=GROND.2015-10-22T08:50:07.422"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368141460000000&exptime=0.000&mark=GROND.2015-10-22T08:50:07.422"
         }
       }
     ]
@@ -8450,13 +8552,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:50:01.558",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:50:01.558&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:50:01.558&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8472,13 +8574,13 @@
       },
       {
         "props": {
-          "TEXT": "06:08:27.83-29:10:41.3"
+          "TEXT": "06:08:27.83 -29:10:41.3"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -8508,7 +8610,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8543,8 +8645,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368073590000000&exptime=0.000&mark=WFI.2015-10-22T08:50:01.558"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368073590000000&exptime=0.000&mark=WFI.2015-10-22T08:50:01.558"
         }
       }
     ]
@@ -8554,13 +8656,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:49:24.302",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:49:24.302&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:49:24.302&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8576,13 +8678,13 @@
       },
       {
         "props": {
-          "TEXT": "06:07:49.73-29:10:42.2"
+          "TEXT": "06:07:49.73 -29:10:42.2"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -8612,7 +8714,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8647,8 +8749,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.367642390000000&exptime=0.000&mark=WFI.2015-10-22T08:49:24.302"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.367642390000000&exptime=0.000&mark=WFI.2015-10-22T08:49:24.302"
         }
       }
     ]
@@ -8658,13 +8760,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:50:26.279",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:50:26.279&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:50:26.279&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8684,7 +8786,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -8714,7 +8816,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8745,8 +8847,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368359710000000&exptime=0.000&mark=GROND.2015-10-22T08:50:26.279"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368359710000000&exptime=0.000&mark=GROND.2015-10-22T08:50:26.279"
         }
       }
     ]
@@ -8756,13 +8858,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:48:08.505",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:48:08.505&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:48:08.505&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8778,13 +8880,13 @@
       },
       {
         "props": {
-          "TEXT": "06:06:33.52-29:10:43.9"
+          "TEXT": "06:06:33.52 -29:10:43.9"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -8814,7 +8916,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8849,8 +8951,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.366765100000000&exptime=0.000&mark=WFI.2015-10-22T08:48:08.505"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.366765100000000&exptime=0.000&mark=WFI.2015-10-22T08:48:08.505"
         }
       }
     ]
@@ -8860,13 +8962,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:48:54.344",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:48:54.344&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:48:54.344&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8886,7 +8988,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -8916,7 +9018,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -8947,8 +9049,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.367295650000000&exptime=0.000&mark=GROND.2015-10-22T08:48:54.344"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.367295650000000&exptime=0.000&mark=GROND.2015-10-22T08:48:54.344"
         }
       }
     ]
@@ -8958,13 +9060,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:47:59.333",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:47:59.333&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:47:59.333&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -8984,7 +9086,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -9014,7 +9116,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9045,8 +9147,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.366658950000000&exptime=0.000&mark=GROND.2015-10-22T08:47:59.333"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.366658950000000&exptime=0.000&mark=GROND.2015-10-22T08:47:59.333"
         }
       }
     ]
@@ -9056,13 +9158,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:51:28.231",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:51:28.231&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:51:28.231&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9082,7 +9184,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -9112,7 +9214,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9143,8 +9245,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.369076750000000&exptime=10.000&mark=GROND.2015-10-22T08:51:28.231"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.369076750000000&exptime=10.000&mark=GROND.2015-10-22T08:51:28.231"
         }
       }
     ]
@@ -9154,13 +9256,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:47:30.200",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:47:30.200&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:47:30.200&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9176,13 +9278,13 @@
       },
       {
         "props": {
-          "TEXT": "06:05:55.42-29:10:44.8"
+          "TEXT": "06:05:55.42 -29:10:44.8"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -9212,7 +9314,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9247,8 +9349,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.366321760000000&exptime=0.000&mark=WFI.2015-10-22T08:47:30.200"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.366321760000000&exptime=0.000&mark=WFI.2015-10-22T08:47:30.200"
         }
       }
     ]
@@ -9258,13 +9360,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+WFI.2015-10-22T08:50:39.441",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=WFI.2015-10-22T08:50:39.441&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=WFI.2015-10-22T08:50:39.441&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9280,13 +9382,13 @@
       },
       {
         "props": {
-          "TEXT": "06:09:05.94-29:10:40.5"
+          "TEXT": "06:09:05.94 -29:10:40.5"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9120(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9120(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9120(A)"
         }
       },
       {
@@ -9316,7 +9418,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9351,8 +9453,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368512050000000&exptime=0.000&mark=WFI.2015-10-22T08:50:39.441"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368512050000000&exptime=0.000&mark=WFI.2015-10-22T08:50:39.441"
         }
       }
     ]
@@ -9362,13 +9464,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:50:44.336",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:50:44.336&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:50:44.336&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9388,7 +9490,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -9418,7 +9520,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9449,8 +9551,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368568700000000&exptime=0.000&mark=GROND.2015-10-22T08:50:44.336"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.368568700000000&exptime=0.000&mark=GROND.2015-10-22T08:50:44.336"
         }
       }
     ]
@@ -9460,13 +9562,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:54:35.680",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:54:35.680&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:54:35.680&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9486,7 +9588,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -9516,7 +9618,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9547,8 +9649,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.371246300000000&exptime=10.000&mark=GROND.2015-10-22T08:54:35.680"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.371246300000000&exptime=10.000&mark=GROND.2015-10-22T08:54:35.680"
         }
       }
     ]
@@ -9558,13 +9660,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+GROND.2015-10-22T08:52:30.716",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=GROND.2015-10-22T08:52:30.716&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=GROND.2015-10-22T08:52:30.716&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9584,7 +9686,7 @@
       {
         "props": {
           "TEXT": "096.A-9099(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=096.A-9099(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=096.A-9099(A)"
         }
       },
       {
@@ -9614,7 +9716,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9645,8 +9747,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.369799950000000&exptime=10.000&mark=GROND.2015-10-22T08:52:30.716"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=lasilla&zoom=S&mjd=57317.369799950000000&exptime=10.000&mark=GROND.2015-10-22T08:52:30.716"
         }
       }
     ]
@@ -9656,13 +9758,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+VCAM.2015-10-22T09:03:33.146",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=VCAM.2015-10-22T09:03:33.146&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=VCAM.2015-10-22T09:03:33.146&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9682,7 +9784,7 @@
       {
         "props": {
           "TEXT": "60.A-9292(A)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9292(A)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9292(A)"
         }
       },
       {
@@ -9712,7 +9814,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9745,8 +9847,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=57317.377466970000000&exptime=120.000&mark=VCAM.2015-10-22T09:03:33.146"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=57317.377466970000000&exptime=120.000&mark=VCAM.2015-10-22T09:03:33.146"
         }
       }
     ]
@@ -9756,13 +9858,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2015-10-22T09:07:46.671",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2015-10-22T09:07:46.671&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2015-10-22T09:07:46.671&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9778,13 +9880,13 @@
       },
       {
         "props": {
-          "TEXT": "03:08:26.53-37:51:05.3"
+          "TEXT": "03:08:26.53 -37:51:05.3"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -9814,7 +9916,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9847,8 +9949,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=57317.380401295000000&exptime=9.000&mark=XSHOO.2015-10-22T09:07:46.671"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=57317.380401295000000&exptime=9.000&mark=XSHOO.2015-10-22T09:07:46.671"
         }
       }
     ]
@@ -9858,13 +9960,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2015-10-22T09:05:28.961",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2015-10-22T09:05:28.961&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2015-10-22T09:05:28.961&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9880,13 +9982,13 @@
       },
       {
         "props": {
-          "TEXT": "03:08:26.44-37:51:09.1"
+          "TEXT": "03:08:26.44 -37:51:09.1"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -9916,7 +10018,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -9949,8 +10051,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=57317.378807419000000&exptime=5.000&mark=XSHOO.2015-10-22T09:05:28.961"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=57317.378807419000000&exptime=5.000&mark=XSHOO.2015-10-22T09:05:28.961"
         }
       }
     ]
@@ -9960,13 +10062,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+XSHOO.2015-10-22T09:05:01.889",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=XSHOO.2015-10-22T09:05:01.889&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=XSHOO.2015-10-22T09:05:01.889&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -9982,13 +10084,13 @@
       },
       {
         "props": {
-          "TEXT": "03:08:26.44-37:51:09.1"
+          "TEXT": "03:08:26.44 -37:51:09.1"
         }
       },
       {
         "props": {
           "TEXT": "60.A-9022(C)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=60.A-9022(C)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=60.A-9022(C)"
         }
       },
       {
@@ -10018,7 +10120,7 @@
       },
       {
         "props": {
-          "TEXT": "Oct222015"
+          "TEXT": "Oct 22 2015"
         }
       },
       {
@@ -10051,8 +10153,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=57317.378494083000000&exptime=1.000&mark=XSHOO.2015-10-22T09:05:01.889"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=57317.378494083000000&exptime=1.000&mark=XSHOO.2015-10-22T09:05:01.889"
         }
       }
     ]
@@ -10062,13 +10164,13 @@
       {
         "props": {
           "INPUT_VAL": "SAF+VCAM.2014-09-04T01:33:22.107",
-          "INPUT_TYPE": "checkbox",
-          "INPUT_NAME": "dataset"
+          "INPUT_NAME": "dataset",
+          "INPUT_TYPE": "checkbox"
         }
       },
       {
         "props": {
-          "A_HREF": "/wdb/wdb/torba/torba_archive_main/query?dp_id=VCAM.2014-09-04T01:33:22.107&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
+          "A_HREF": "/wdb/wdb/eso/eso_archive_main/query?dp_id=VCAM.2014-09-04T01:33:22.107&format=&tab_stat_plot=on&aladin_colour=aladin_instrument"
         }
       },
       {
@@ -10084,13 +10186,13 @@
       },
       {
         "props": {
-          "TEXT": "21:20:32.42-30:00:04.1"
+          "TEXT": "21:20:32.42 -30:00:04.1"
         }
       },
       {
         "props": {
           "TEXT": "179.A-2010(J)",
-          "A_HREF": "/wdb/wdb/torba/sched_rep_arc/query?progid=179.A-2010(J)"
+          "A_HREF": "/wdb/wdb/eso/sched_rep_arc/query?progid=179.A-2010(J)"
         }
       },
       {
@@ -10120,7 +10222,7 @@
       },
       {
         "props": {
-          "TEXT": "Sep42014"
+          "TEXT": "Sep  4 2014"
         }
       },
       {
@@ -10155,8 +10257,8 @@
       },
       {
         "props": {
-          "TEXT": "DIMM Seeing?",
-          "A_HREF": "http://archive.torba.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.064839200000000&exptime=15.000&mark=VCAM.2014-09-04T01:33:22.107"
+          "TEXT": "DIMM Seeing?",
+          "A_HREF": "http://archive.eso.org/asm/ambient-server?site=paranal&zoom=S&mjd=56904.064839200000000&exptime=15.000&mark=VCAM.2014-09-04T01:33:22.107"
         }
       }
     ]

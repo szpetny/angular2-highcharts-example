@@ -8,22 +8,32 @@
 					</abbr>
 				</a>
 			</th>
+			<th>Chart view</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr *ngFor="let row of tableData; let rowIndex = index" id="{{rowIndex + 1}}">
-			<td *ngFor="let cell of row.cells; let cellIndex = index">
-				<div *ngIf="cellIndex == 0" class="{{cell.props.RESTRICTED == 'true' ? 'error' : ''}}">
-					<input name="{{cell.props.INPUT_NAME}}" class="ui checkbox"
-						type="{{cell.props.INPUT_TYPE}}" value="{{cell.props.INPUT_VAL}}">
+			<td *ngFor="let cell of row.cells; let cellIndex = index" class="center aligned">
+				<div *ngIf="cellIndex == 0" 
+					class="ui compact segment table-checkbox-padding 
+						{{cell.props.RESTRICTED ? 'red-background' : 'green-background'}}">
+				    <div class="ui fitted checkbox">
+				      <input type="checkbox" name="{{cell.props.INPUT_NAME}}"
+						 value="{{cell.props.INPUT_VAL}}">
+				    </div>
 				</div>
 				<a *ngIf="cellIndex == 1" href="{{cell.props.A_HREF}}">
-					<i class="zoom icon"></i>
+					<i class="zoom icon big"></i>
 				</a>
 				<a *ngIf="cellIndex > 1 && cell.props.A_HREF" href="{{cell.props.A_HREF}}">
 					{{cell.props.TEXT}}
 				</a>
 				<p *ngIf="cellIndex > 1 && !cell.props.A_HREF">{{cell.props.TEXT}}</p>
+			</td>
+			<td class="center aligned">
+				<a routerLink="/xuniverse" target="_blank">
+					<i class="line chart icon big"></i>
+				</a>
 			</td>
 		</tr>
 	</tbody>

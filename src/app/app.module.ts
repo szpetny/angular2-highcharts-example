@@ -5,6 +5,7 @@ import { HttpModule } from '@angular/http';
 import { AppRoutingModule } from './app.routing.module';
 import { AppComponent } from './app.component';
 
+import { MainMenuModule } from './main-menu/main-menu.module';
 import { XuniverseModule } from './xuniverse/xuniverse.module';
 import { XtableModule } from './xtable/xtable.module';
 
@@ -16,6 +17,7 @@ import { XtableModule } from './xtable/xtable.module';
     BrowserModule,
     HttpModule,
     AppRoutingModule,
+    MainMenuModule,
     XuniverseModule,
     XtableModule
   ],
