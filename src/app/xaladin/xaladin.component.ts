@@ -21,7 +21,7 @@ export class XaladinComponent implements OnInit, AfterViewInit {
   ngAfterViewInit() {
     this.dataService.getAladinDataFromJson()
     .subscribe((data: any[]) => {
-          let aladin = A.aladin(this.aladinDiv, {target: 'LMC', fov: 80, showFullscreenControl: false});
+          let aladin = A.aladin(this.aladinDiv.nativeElement, {target: 'LMC', fov: 80, showFullscreenControl: false});
           let moc = A.MOCFromJSON(data, {color: 'magenta', lineWidth: 1});
           aladin.addMOC(moc);
     });
