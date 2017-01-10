@@ -1,5 +1,7 @@
 # Angczart
 
+This is a sample project testing usage of angular2 together with angular2-highcharts, semantic-ui and aladin-lite.
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
 ## Development server

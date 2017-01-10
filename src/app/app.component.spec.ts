@@ -2,13 +2,14 @@
 
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+import { MainMenuComponent } from './main-menu/main-menu.component';
 import { RouterOutletStubComponent } from './testing/router-stubs';
 
 describe('App: Angczart', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [
-        AppComponent, RouterOutletStubComponent
+        AppComponent, MainMenuComponent, RouterOutletStubComponent
       ],
     });
   }));
@@ -18,7 +19,7 @@ describe('App: Angczart', () => {
     let app = fixture.debugElement.componentInstance;
     expect(app).toBeTruthy();
   }));
-  
+
   it(`should have as title 'Highchart example'`, async(() => {
     let fixture = TestBed.createComponent(AppComponent);
     let app = fixture.debugElement.componentInstance;

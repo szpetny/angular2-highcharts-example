@@ -1,7 +1,9 @@
 /* tslint:disable:no-unused-variable */
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { By } from '@angular/platform-browser';
-import { DebugElement } from '@angular/core';
+import { DebugElement, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+import { Router } from '@angular/router';
+import { RouterOutletStubComponent, RouterStub } from '../testing/router-stubs';
 
 import { XuniverseComponent } from './xuniverse.component';
 
@@ -11,7 +13,9 @@ describe('XuniverseComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ XuniverseComponent ]
+      declarations: [ XuniverseComponent, RouterOutletStubComponent ],
+      providers: [{ provide: Router, useValue: RouterStub }],
+      schemas: [CUSTOM_ELEMENTS_SCHEMA]
     })
     .compileComponents();
   }));

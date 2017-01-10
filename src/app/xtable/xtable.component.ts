@@ -2,10 +2,10 @@ import { Component, OnInit } from '@angular/core';
 
 import { DataService } from '../shared/data.service';
 
-declare var $: any;
+declare var jQuery: any;
 
 @Component({
-  selector: 'app-xtable',
+  selector: 'x-table',
   templateUrl: './xtable.component.html',
   styleUrls: ['./xtable.component.css']
 })
@@ -17,18 +17,18 @@ export class XtableComponent implements OnInit {
 
   ngOnInit() {
        this.dataService.getXtableDataFromJson()
-      .subscribe((data: any[]) => {
-        this.tableHeader = data[0].cells;
-        data.splice(0, 1); 
-        this.tableData = data;
-        
-        this.doDirtyHackForCheckbox();
-      });
+            .subscribe((data: any[]) => {
+              this.tableHeader = data[0].cells;
+              data.splice(0, 1); 
+              this.tableData = data;
+              
+              this.doDirtyHackForCheckbox();
+            });
   }
   
   private doDirtyHackForCheckbox() {
-    $(document).ready(function() {
-      $('.ui.checkbox').checkbox();
+    jQuery(document).ready(function() {
+      jQuery('.ui.checkbox').checkbox();
     });
   }
 

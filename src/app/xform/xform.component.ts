@@ -1,6 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { FormBuilder, Validators } from '@angular/forms';
-import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'x-form',
@@ -12,8 +11,7 @@ export class XformComponent implements OnInit {
   
   @Input() doAction: Function;
   
-  constructor(private route: ActivatedRoute,
-    private fb: FormBuilder) { }
+  constructor(private fb: FormBuilder) { }
 
   ngOnInit() {
     this.serverSettings = this.fb.group({

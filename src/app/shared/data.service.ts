@@ -28,12 +28,12 @@ export class DataService {
       });
   }
   
-  getAladinDataFromJson(): Observable<any[]> {
+  getAladinDataFromJson(): Observable<any> {
     return this.http.get('../../assets/json/moc-data.json')
       .map((r: Response) => r.json().moc)
-      .catch((error: any) => {
+      .catch(error => {
         this.handleError(error);
-        return [];
+        return error;
       });
   }
 

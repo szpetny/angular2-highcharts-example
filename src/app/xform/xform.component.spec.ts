@@ -1,8 +1,9 @@
 /* tslint:disable:no-unused-variable */
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 import { By } from '@angular/platform-browser';
-import { DebugElement } from '@angular/core';
+import { DebugElement, NO_ERRORS_SCHEMA } from '@angular/core';
 
+import { FormBuilder, Validators } from '@angular/forms';
 import { XformComponent } from './xform.component';
 
 describe('XformComponent', () => {
@@ -11,7 +12,9 @@ describe('XformComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ XformComponent ]
+      declarations: [XformComponent],
+      providers: [FormBuilder],
+      schemas: [NO_ERRORS_SCHEMA]
     })
     .compileComponents();
   }));
@@ -24,5 +27,6 @@ describe('XformComponent', () => {
 
   it('should create', () => {
     expect(component).toBeTruthy();
+    expect(component.serverSettings).toBeDefined();
   });
 });

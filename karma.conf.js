@@ -12,7 +12,13 @@ module.exports = function (config) {
       require('angular-cli/plugins/karma')
     ],
     files: [
+      { pattern: './src/assets/jquery/jquery.min.js', watched: false },   
+      { pattern: './src/assets/semantic-ui/semantic.min.js', watched: false },   
+      { pattern: './src/assets/aladin-lite/aladin.js', watched: false },   
       { pattern: './src/test.ts', watched: false }
+    ],
+    exclude: [
+      './src/app/testing'      
     ],
     preprocessors: {
       './src/test.ts': ['angular-cli']
