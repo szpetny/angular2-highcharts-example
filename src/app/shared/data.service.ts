@@ -39,9 +39,9 @@ export class DataService {
 
   getXchartData(serverport: string, filename: string,
     min?: number, max?: number): Observable<number[][][]> {
-    let url = 'http://' + serverport + '/' + filename + '/main/web';
+    let url = `http://${serverport}/${filename}/main/web`;
     if (min != null && max != null) {
-      url += '?min=' + min + '&max=' + max;
+      url += `?min=${min}&max=${max}`;
     }
     return this.http.get(url)
       .map(

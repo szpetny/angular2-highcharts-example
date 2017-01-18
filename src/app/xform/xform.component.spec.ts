@@ -29,4 +29,20 @@ describe('XformComponent', () => {
     expect(component).toBeTruthy();
     expect(component.serverSettings).toBeDefined();
   });
+  
+  it('should fill and submit form', () => {
+    let doAction = (formData) => {
+      expect(formData).not.toBeNull();
+    };
+    
+  //  spyOn(fixture.componentInstance, 'submitForm');
+    
+    component.doAction = doAction;
+    fixture.nativeElement.querySelector('#serverport').value = 'yeti:1010';
+    fixture.nativeElement.querySelector('#filename').value = 'very-important-file';
+    fixture.debugElement.query(By.css('#submitButton')).nativeElement.click();
+    fixture.detectChanges();
+    
+   // expect(fixture.componentInstance.submitForm).toHaveBeenCalled();
+  });
 });

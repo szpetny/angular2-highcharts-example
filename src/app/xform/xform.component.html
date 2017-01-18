@@ -2,12 +2,12 @@
 	class="ui form">
 	<div class="field">
 		<label>Server & port</label> <input formControlName="serverport"
-			type="text" placeholder="server:port">
+			type="text" placeholder="server:port" id="serverport">
 	</div>
 	<div class="field">
 		<label>Filename</label> <input formControlName="filename" type="text"
-			placeholder="filename">
+			placeholder="filename" id="filename">
 	</div>
-	<button class="ui button" type="submit"
+	<button class="ui button" type="submit" id="submitButton"
 		[disabled]="serverSettings.invalid">Update</button>
 </form>

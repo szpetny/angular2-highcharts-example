@@ -27,7 +27,7 @@ describe('Component: Xchart', () => {
   let compDataService, compXchartService;
 
   let route;
-  
+
   let comp: XchartComponent;
   let fixture: ComponentFixture<XchartComponent>;
   let de: DebugElement;
@@ -37,18 +37,19 @@ describe('Component: Xchart', () => {
     dataServiceStub = new DataServiceStub();
     xchartServiceStub = new XchartServiceStub();
     route = new ActivatedRouteStub();
+    route.testParams = {};
 
     TestBed.configureTestingModule({
       imports: [ChartModule],
       declarations: [XchartComponent],
       providers: [{ provide: DataService, useValue: dataServiceStub },
       { provide: XchartService, useValue: xchartServiceStub },
-      { provide: ActivatedRoute, useValue: ActivatedRouteStub }]
+      { provide: ActivatedRoute, useValue: route }]
     });
 
     fixture = TestBed.createComponent(XchartComponent);
     comp = fixture.componentInstance;
-
+    
     dataService = fixture.debugElement.injector.get(DataService);
     compDataService = dataService;
     dataService = TestBed.get(DataService);
@@ -62,13 +63,18 @@ describe('Component: Xchart', () => {
 
     de = fixture.debugElement.query(By.css('div#xchart-container'));
     el = de.nativeElement;
+    
   }));
 
   it('should create an instance', () => {
-    expect(de).not.toBeNull();
+      fixture.detectChanges();
+      expect(de).not.toBeNull();
+      expect(compDataService.getXchartData).toHaveBeenCalled();
   });
 
   it('happens onMasterChartSelection and sets plot band', () => {
+    fixture.detectChanges();
+    
     let masterChartXAxis = TestData.chartXAxis();
     let chartXAxis = TestData.chartXAxis();
     chartXAxis.axis = masterChartXAxis;
@@ -86,6 +92,8 @@ describe('Component: Xchart', () => {
   });
 
   it('happens onMasterChartSelection and resets plot band', () => {
+    fixture.detectChanges();
+    
     let masterChartXAxis = TestData.chartXAxis();
 
     let event = new MockChartEvent();
@@ -101,12 +109,14 @@ describe('Component: Xchart', () => {
   });
 
   it('happens onDetailChartSelection and sets the plot band', () => {
+    fixture.detectChanges();
+    
     let chartXAxis = TestData.chartXAxis();
     chartXAxis.setExtremes(0, 1);
     let event = new MockChartEvent();
     event.originalEvent.xAxis.push(chartXAxis);
 
-    fixture.componentInstance.mczartDiv.chart = {axes: [chartXAxis]};
+    fixture.componentInstance.mczartDiv.chart = { axes: [chartXAxis] };
     spyOn(compXchartService, 'updateDetailChartAndAddMasterPlotBand');
 
     let detailChartEl = fixture.debugElement.query(By.css('.detail-chart'));
@@ -116,17 +126,70 @@ describe('Component: Xchart', () => {
   });
 
   it('happens onDetailChartSelection and resets the plot band', () => {
+    fixture.detectChanges();
+    
     let chartXAxis = TestData.chartXAxis();
     let event = new MockChartEvent();
     event.originalEvent.xAxis = null;
     event.originalEvent.target.axes.push(chartXAxis);
-    
-    fixture.componentInstance.mczartDiv.chart = {axes: [chartXAxis]};
+
+    fixture.componentInstance.mczartDiv.chart = { axes: [chartXAxis] };
     spyOn(compXchartService, 'updateDetailChartAndResetMasterPlotBand');
 
     let detailChartEl = fixture.debugElement.query(By.css('.detail-chart'));
     detailChartEl.triggerEventHandler('selection', event);
 
     expect(compXchartService.updateDetailChartAndResetMasterPlotBand).toHaveBeenCalled();
+  });
+});
+
+describe('Component: Xchart with route params', () => {
+  let dataServiceStub, xchartServiceStub, data;
+  let dataService, xchartService;
+  let compDataService, compXchartService;
+
+  let route;
+
+  let comp: XchartComponent;
+  let fixture: ComponentFixture<XchartComponent>;
+  let de: DebugElement;
+  let el: HTMLElement;
+
+  beforeEach(async(() => {
+    dataServiceStub = new DataServiceStub();
+    xchartServiceStub = new XchartServiceStub();
+    route = new ActivatedRouteStub();
+    route.testParams = { serverport: 'server:port', filename: 'file' };
+
+    TestBed.configureTestingModule({
+      imports: [ChartModule],
+      declarations: [XchartComponent],
+      providers: [{ provide: DataService, useValue: dataServiceStub },
+      { provide: XchartService, useValue: xchartServiceStub },
+      { provide: ActivatedRoute, useValue: route }]
+    });
+
+    fixture = TestBed.createComponent(XchartComponent);
+    comp = fixture.componentInstance;
+    
+    dataService = fixture.debugElement.injector.get(DataService);
+    compDataService = dataService;
+    dataService = TestBed.get(DataService);
+
+    data = Observable.of(TestData.xchartData());
+    spyOn(compDataService, 'getXchartData').and.returnValue(data);
+
+    xchartService = fixture.debugElement.injector.get(XchartService);
+    compXchartService = xchartService;
+    xchartService = TestBed.get(XchartService);
+
+    de = fixture.debugElement.query(By.css('div#xchart-container'));
+    el = de.nativeElement;
+  }));
+
+  it('should create an instance with route params', () => {
+    fixture.detectChanges();
+    expect(de).not.toBeNull();
+    expect(compDataService.getXchartData).toHaveBeenCalledWith('server:port', 'file');
   });
 });

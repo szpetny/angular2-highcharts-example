@@ -9,9 +9,9 @@ import { Observable } from 'rxjs/Rx';
 
 describe('Service: Data', () => {
   const mockResponse = TestData.xchartData();
-  
+
   let serverport = 'server:port',
-      filename = 'filename';
+    filename = 'filename';
 
   beforeEach(() => {
     TestBed.configureTestingModule({
@@ -24,7 +24,7 @@ describe('Service: Data', () => {
     });
   });
 
-  it('should return Observable<number[][][]> without range',
+  it('should do getXchartData and return Observable<number[][][]> without range',
     inject([DataService, XHRBackend], (service, mockBackend) => {
       mockBackend.connections.subscribe((connection) => {
         expect(connection.request.url).toEqual('http://server:port/filename/main/web');
@@ -42,12 +42,11 @@ describe('Service: Data', () => {
     })
   );
 
-  it('should return Observable<number[][][]> with range',
+  it('should do getXchartData and return Observable<number[][][]> with range',
     inject([DataService, XHRBackend], (service, mockBackend) => {
       let min = 1, max = 2;
       mockBackend.connections.subscribe((connection) => {
-        expect(connection.request.url).toEqual('http://server:port/filename/main/web?min=' +
-          min + '&max=' + max);
+        expect(connection.request.url).toEqual(`http://server:port/filename/main/web?min=${min}&max=${max}`);
         connection.mockRespond(new Response(new ResponseOptions({
           status: 200,
           body: JSON.stringify(mockResponse)
@@ -63,12 +62,11 @@ describe('Service: Data', () => {
     })
   );
 
-  it('should return error',
+  it('should do getXchartData and return error',
     async(inject([DataService, XHRBackend], (service, mockBackend) => {
       let min = 1, max = 2;
       mockBackend.connections.subscribe((connection) => {
-        expect(connection.request.url).toEqual('http://server:port/filename/main/web?min=' +
-          min + '&max=' + max);
+        expect(connection.request.url).toEqual(`http://server:port/filename/main/web?min=${min}&max=${max}`);
         connection.mockRespond(new Response(new ResponseOptions({
           status: 500,
           body: '{error: }',
@@ -81,20 +79,19 @@ describe('Service: Data', () => {
         expect(Observable.throw).toHaveBeenCalledWith('Unexpected token e in JSON at position 1');
       });
     })
-  ));
-  
-  it('should return error 2',
+    ));
+
+  it('should do getXchartData and return error 2',
     async(inject([DataService, XHRBackend], (service, mockBackend) => {
       let min = 1, max = 2,
-          errorResponse = new Response(new ResponseOptions({
-                                      status: 404,
-                                      body: {},
-                                      type: 3,
-                                      statusText: 'ERROR'
-                                    }));
+        errorResponse = new Response(new ResponseOptions({
+          status: 404,
+          body: {},
+          type: 3,
+          statusText: 'ERROR'
+        }));
       mockBackend.connections.subscribe((connection) => {
-        expect(connection.request.url).toEqual('http://server:port/filename/main/web?min=' +
-          min + '&max=' + max);
+        expect(connection.request.url).toEqual(`http://server:port/filename/main/web?min=${min}&max=${max}`);
         connection.mockError(errorResponse);
       });
       spyOn(Observable, 'throw');
@@ -102,5 +99,23 @@ describe('Service: Data', () => {
         expect(Observable.throw).toHaveBeenCalledWith(errorResponse);
       });
     })
-  ));
+    ));
+
+  it('should do getXchartDataFromJson and return Observable<number[][][]>',
+    inject([DataService, XHRBackend], (service, mockBackend) => {
+      mockBackend.connections.subscribe((connection) => {
+        expect(connection.request.url).toEqual('../../assets/json/test-long.json');
+        connection.mockRespond(new Response(new ResponseOptions({
+          body: JSON.stringify(mockResponse)
+        })));
+      });
+      service.getXchartDataFromJson().subscribe((data) => {
+        expect(data.length).toEqual(2);
+        expect(data[0]).toBeDefined();
+        expect(data[1]).toBeDefined();
+        expect(data[0][0].length).toEqual(2);
+        expect(data[1][0].length).toEqual(3);
+      });
+    })
+  );
 });
