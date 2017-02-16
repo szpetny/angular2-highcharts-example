@@ -9,7 +9,7 @@ import { DataService } from '../shared/data.service';
 
 @NgModule({
   imports: [
-    ChartModule,
+    ChartModule.forRoot(require('highcharts')),
     XchartRoutingModule,
     HttpModule
   ],
