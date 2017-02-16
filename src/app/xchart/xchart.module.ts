@@ -7,6 +7,8 @@ import { XchartRoutingModule } from './xchart-routing.module';
 import { XchartService } from './xchart.service';
 import { DataService } from '../shared/data.service';
 
+declare var require: any;
+
 @NgModule({
   imports: [
     ChartModule.forRoot(require('highcharts')),
