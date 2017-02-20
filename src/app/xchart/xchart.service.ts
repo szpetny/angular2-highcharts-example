@@ -12,7 +12,7 @@ export class XchartService {
 
   updateDetailChartAndAddMasterPlotBand(serverport, filename,
     detailChart, masterChartXAxis, min, max) {
-    let details: Observable<number[][][]> = this.dataService.getXchartData(serverport, filename, 
+    let details: Observable<number[][][]> = this.dataService.getXchartData(serverport, filename,
       min, max);
 
     details.subscribe(data => {

@@ -8,9 +8,9 @@ import { FormBuilder, Validators } from '@angular/forms';
 })
 export class XformComponent implements OnInit {
   serverSettings: any;
-  
+
   @Input() doAction: Function;
-  
+
   constructor(private fb: FormBuilder) { }
 
   ngOnInit() {

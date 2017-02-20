@@ -2,8 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'main-menu',
-  templateUrl: './main-menu.component.html',
-  styleUrls: ['./main-menu.component.css']
+  templateUrl: './main-menu.component.html'
 })
 export class MainMenuComponent {
   constructor() { }

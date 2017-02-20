@@ -13,18 +13,18 @@ import { XchartComponent } from '../xchart/xchart.component';
 })
 export class XuniverseComponent implements OnInit {
   boundUpdateServerSettings: Function;
-  
+
   constructor(private router: Router, private hotkeysService: HotkeysService) { }
-  
+
   ngOnInit() {
     this.boundUpdateServerSettings = this.updateServerSettings.bind(this);
-    
+
      this.hotkeysService.add(new Hotkey('ctrl+y', (event: KeyboardEvent): boolean => {
         console.log('Typed yeti');
         return false; // Prevent bubbling
     }));
   }
-  
+
   updateServerSettings(data: any): void {
      this.router.navigate(['/xuniverse/xchart', data.serverport, data.filename]);
    }
